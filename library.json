@@ -4,7 +4,7 @@
             "Volumetrics", 
             "Lighting & Rendering"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2704&context=all_theses", 
         "tags": [
             "clemson"
@@ -15,7 +15,7 @@
             "Maths", 
             "CG"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231", 
         "tags": []
     }, 
@@ -25,7 +25,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc12/Ioannidis/Thesis.pdf", 
         "tags": [
             "houdini", 
@@ -36,7 +36,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/01/thesis.pdf", 
         "tags": [
             "houdini", 
@@ -49,7 +49,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc11/Ahmad/aghourab_MSc_Thesis_Public.pdf", 
         "tags": [
             "houdini", 
@@ -61,7 +61,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://www.cc.gatech.edu/~turk/my_papers/surface_tension.pdf", 
         "tags": []
     }, 
@@ -69,7 +69,7 @@
         "categories": [
             "Pipeline"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.moving-picture.com/UmbracoMedia/6303/800pipeline.pdf", 
         "tags": [
             "mpc"
@@ -79,7 +79,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://www.iro.umontreal.ca/~derek/files/nowrouzezahrai11programmable.pdf", 
         "tags": [
             "disney"
@@ -90,7 +90,7 @@
             "FX", 
             "Biology & Trees"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://edwardfx.weebly.com/uploads/9/0/7/5/9075896/innovationsreport.pdf", 
         "tags": [
             "houdini", 
@@ -102,7 +102,7 @@
             "Crowds", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.moving-picture.com/UmbracoMedia/6299/asystemcrowd.pdf", 
         "tags": [
             "mpc"
@@ -113,7 +113,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2178&context=all_theses", 
         "tags": [
             "clemson"
@@ -123,7 +123,7 @@
         "categories": [
             "Oceans"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://www.diva-portal.org/smash/get/diva2:272268/FULLTEXT02", 
         "tags": [
             "realtime"
@@ -134,7 +134,7 @@
             "PBD", 
             "CFX"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614147", 
         "tags": [
             "dwa"
@@ -144,7 +144,7 @@
         "categories": [
             "Case studies"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://tdforum.eu/pdf/2012OlliRajala_Apes_and_Blocks_of_Foam.pdf", 
         "tags": [
             "tdforum"
@@ -154,7 +154,7 @@
         "categories": [
             "Abstract"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/DigitalItemViewPage.external;jsessionid=759FFC197353BBFCE1B1DC109DDE108F?lang=eng&sp=1000810&sp=T&sp=1&suite=def+++", 
         "tags": [
             "houdini", 
@@ -165,7 +165,7 @@
         "categories": [
             "Colors"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://media.siggraph.org/education/cgsource/color/TM_Rhyne_Color_Theory_Class_SIGGRAPH_Education_Committee2.pdf", 
         "tags": []
     }, 
@@ -175,7 +175,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/ETD-TAMU-2011-05-9417/DWIVEDI-THESIS.pdf?sequence=2", 
         "tags": [
             "houdini"
@@ -185,7 +185,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://bulletphysics.org/siggraph2011/takahiro_siggraph2011.pdf", 
         "tags": [
             "realtime"
@@ -196,7 +196,7 @@
             "CG", 
             "Lighting & Rendering"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Advanced-Animation-Rendering-Techniques-Alan/dp/0201544121", 
         "tags": []
     }, 
@@ -204,7 +204,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.openvdb.org/download/openvdb_particle_storage_2015.pdf", 
         "tags": [
             "houdini"
@@ -215,7 +215,7 @@
             "Shading", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://silviojemma.com/public/papers/lighting/infbeyond.pdf", 
         "tags": [
             "pixar", 
@@ -228,7 +228,7 @@
             "Pipeline", 
             "Lighting & Rendering"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://on-demand.gputechconf.com/gtc/2013/presentations/S3032-Advanced-Scenegraph-Rendering-Pipeline.pdf", 
         "tags": []
     }, 
@@ -236,7 +236,7 @@
         "categories": [
             "Biology & Trees"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "http://algorithmicbotany.org/papers/abop/abop.pdf", 
         "tags": []
     }, 
@@ -244,7 +244,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/app?id=9902073086662988&itemId=1001586&lang=eng&service=blob&suite=de", 
         "tags": [
             "houdini", 
@@ -256,7 +256,7 @@
             "FX", 
             "Biology & Trees"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc09/Cashmore/MichaelCashmore-Thesis.pdf", 
         "tags": [
             "houdini", 
@@ -267,7 +267,7 @@
         "categories": [
             "Shading"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://support.solidangle.com/download/attachments/7503948/ArnoldShadersTutorial.pdf?api=v2", 
         "tags": []
     }, 
@@ -275,7 +275,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc13/08/_assets/i7784427_TusharK_Thesis.pdf", 
         "tags": [
             "houdini", 
@@ -286,7 +286,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://www.diva-portal.org/smash/get/diva2:559073/FULLTEXT01.pdf", 
         "tags": []
     }, 
@@ -296,7 +296,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=1401040&dl=ACM&coll=DL", 
         "tags": [
             "r&h"
@@ -307,7 +307,7 @@
             "FX", 
             "RBD"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614148&dl=ACM&coll=DL", 
         "tags": [
             "dwa"
@@ -317,7 +317,7 @@
         "categories": [
             "Biology & Trees"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.andyselle.com/papers/14/tree-shek.pdf", 
         "tags": [
             "disney"
@@ -327,7 +327,7 @@
         "categories": [
             "Biology & Trees"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc17/01/report.pdf", 
         "tags": [
             "houdini", 
@@ -338,7 +338,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://bulletphysics.org/siggraph2011/michael_siggraph2011.pdf", 
         "tags": [
             "disney"
@@ -350,7 +350,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=965492", 
         "tags": [
             "dd"
@@ -360,7 +360,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://physbam.stanford.edu/~mlentine/images/deformingrigids.pdf", 
         "tags": [
             "ilm"
@@ -370,7 +370,7 @@
         "categories": [
             "Pipeline"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://tdforum.eu/pdf/2012ColinDoncaster_TDForum.pdf", 
         "tags": [
             "tdforum"
@@ -381,7 +381,7 @@
             "Shading", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://pdfs.semanticscholar.org/c4e6/f55a19fa7c108f934f201ae97eedf90cefef.pdf", 
         "tags": []
     }, 
@@ -389,7 +389,7 @@
         "categories": [
             "History"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://people.uncw.edu/pattersone/resources/notes/DSFX_History.pdf", 
         "tags": []
     }, 
@@ -398,7 +398,7 @@
             "Fur & Feathers", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://graphics.snu.ac.kr/publications/conference_proceedings/12_Building_Efficient_Fur_Pipeline_for_a_Low_Cost_Production_of_Creature_based_Feature_Film.pdf", 
         "tags": []
     }, 
@@ -406,7 +406,7 @@
         "categories": [
             "Production"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.tdforum.eu/pdf/ntdf2013_CG_101.pdf", 
         "tags": [
             "tdforum"
@@ -417,7 +417,7 @@
             "Volumetrics", 
             "Lighting & Rendering"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://tdforum.eu/pdf/2012KustaaVuori_cloudsAndRims.pdf", 
         "tags": [
             "tdforum"
@@ -428,7 +428,7 @@
             "Lighting & Rendering", 
             "Set"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/DigitalItemViewPage.external;jsessionid=ABD0B1B0DDCA193A6F981612E6605AFE?lang=eng&sp=1002062&sp=T&sp=1&suite=def+++", 
         "tags": [
             "scad"
@@ -440,7 +440,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://library.imageworks.com/pdfs/imageworks-library-capturing-thin-features-in-smoke-simulation.pdf", 
         "tags": [
             "spi"
@@ -450,7 +450,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614166", 
         "tags": [
             "ilm"
@@ -460,7 +460,7 @@
         "categories": [
             "Rigging"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.474.9719&rep=rep1&type=pdf", 
         "tags": [
             "dwa"
@@ -470,17 +470,17 @@
         "categories": [
             "Colors"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://www.visualeffectssociety.com/sites/default/files/files/cinematic_color_ves.pdf", 
         "tags": []
     }, 
-    "Cloud Modeling and Rendering for “Puss In Boots”": {
+    "Cloud Modeling and Rendering for 'Puss In Boots'": {
         "categories": [
             "FX", 
             "Volumetrics", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://ken.museth.org/Publications_files/Miller-etal_SIG12.pdf", 
         "tags": [
             "dwa"
@@ -490,7 +490,7 @@
         "categories": [
             "Colors"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Color-Correction-Handbook-Professional-Techniques/dp/0321713117", 
         "tags": []
     }, 
@@ -498,7 +498,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/app?id=2536695579707187&itemId=1001581&lang=eng&service=blob&suite=def", 
         "tags": [
             "houdini", 
@@ -509,7 +509,7 @@
         "categories": [
             "Production"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://tdforum.eu/pdf/2012ComplexityProductivityAndEfficncy.pdf", 
         "tags": [
             "tdforum"
@@ -519,7 +519,7 @@
         "categories": [
             "CG"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "http://dept.cs.williams.edu/~morgan/cgpp/about.xml", 
         "tags": []
     }, 
@@ -529,7 +529,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc09/Claes/thesis/PeterClaesThesis.pdf", 
         "tags": [
             "houdini", 
@@ -540,7 +540,7 @@
         "categories": [
             "Pipeline"
         ], 
-        "form": "video", 
+        "format": "video", 
         "link": "http://image-engine.com/randd/siggraph-2011-birds-of-a-feather-presentation/", 
         "tags": []
     }, 
@@ -549,7 +549,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2849519&dl=ACM&coll=DL", 
         "tags": []
     }, 
@@ -557,7 +557,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://bulletphysics.org/siggraph2011/erwin_intro_siggraph2011.pdf", 
         "tags": []
     }, 
@@ -565,7 +565,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614204&dl=ACM&coll=DL", 
         "tags": [
             "spi"
@@ -575,7 +575,7 @@
         "categories": [
             "Abstract"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3101&context=all_theses", 
         "tags": [
             "clemson"
@@ -585,7 +585,7 @@
         "categories": [
             "Oceans"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO2_handout.pdf", 
         "tags": []
     }, 
@@ -594,7 +594,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=1280784", 
         "tags": [
             "dwa"
@@ -604,7 +604,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614106.2614127", 
         "tags": [
             "mpc"
@@ -614,7 +614,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc11/vigneshwar/Road%20Crack%20GenerationThesis.pdf", 
         "tags": [
             "houdini", 
@@ -625,7 +625,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.openvdb.org/download/openvdb_fluids_2013.pdf", 
         "tags": [
             "houdini"
@@ -635,7 +635,7 @@
         "categories": [
             "Deep comp"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://tdforum.eu/pdf/2011ntdf_deepcomp_colindoncaster.pdf", 
         "tags": [
             "tdforum"
@@ -645,7 +645,7 @@
         "categories": [
             "Deep comp"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://patrickheinen.com/docs/DeepCompositingInVFX_PatrickHeinen_2013.pdf", 
         "tags": []
     }, 
@@ -653,7 +653,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=1401123", 
         "tags": [
             "ilm"
@@ -663,7 +663,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://bulletphysics.org/siggraph2011/nafees_siggraph2011.pdf", 
         "tags": []
     }, 
@@ -671,7 +671,7 @@
         "categories": [
             "Pipeline"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2491837", 
         "tags": []
     }, 
@@ -679,7 +679,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc17/08/report.pdf", 
         "tags": [
             "houdini", 
@@ -690,7 +690,7 @@
         "categories": [
             "Coding"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "http://www.diveintopython.net/", 
         "tags": []
     }, 
@@ -699,7 +699,7 @@
             "Shading", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://graphics.pixar.com/library/ToonRendering/paper.pdf", 
         "tags": [
             "pixar"
@@ -710,7 +710,7 @@
             "FX", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://research.dreamworks.com/papers/Seamless_Volumetric_Fracturing_DWA_2012.pdf", 
         "tags": [
             "dwa"
@@ -720,7 +720,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.nafees.net/siggraph/budsberg-deformable_solids.pdf", 
         "tags": [
             "dwa"
@@ -730,7 +730,7 @@
         "categories": [
             "Oceans"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://dutch360hdr.com/downloads/other/EmpiricalDirectionalWaveSpectra_DigiPro2015_Jun20_2015.pdf", 
         "tags": []
     }, 
@@ -738,7 +738,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://www.cs.clemson.edu/dpa/images/hughthesis.pdf", 
         "tags": [
             "clemson"
@@ -749,7 +749,7 @@
             "Pipeline", 
             "Coding"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO4_handout.pdf", 
         "tags": [
             "houdini"
@@ -759,7 +759,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf", 
         "tags": []
     }, 
@@ -767,7 +767,7 @@
         "categories": [
             "Erosion"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://hal.inria.fr/inria-00402079/document", 
         "tags": [
             "realtime"
@@ -777,7 +777,7 @@
         "categories": [
             "Erosion"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://old.cescg.org/CESCG-2011/papers/TUBudapest-Jako-Balazs.pdf", 
         "tags": [
             "realtime"
@@ -787,7 +787,7 @@
         "categories": [
             "Fur & Feathers"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.moving-picture.com/UmbracoMedia/6300/feathersformysticalcreatures.pdf", 
         "tags": [
             "mpc"
@@ -799,7 +799,7 @@
             "Production", 
             "History"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture02-FL/sfx2011.pdf", 
         "tags": []
     }, 
@@ -807,7 +807,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/02/thesis.pdf", 
         "tags": [
             "bournemouth"
@@ -819,7 +819,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture03-MW/Wrenninge_2011_Fluids.pdf", 
         "tags": []
     }, 
@@ -827,7 +827,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614137&dl=ACM&coll=DL", 
         "tags": [
             "disney"
@@ -837,7 +837,7 @@
         "categories": [
             "CG"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Fundamentals-Computer-Graphics-Peter-Shirley/dp/1568814690", 
         "tags": []
     }, 
@@ -845,7 +845,7 @@
         "categories": [
             "Fur & Feathers"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.moving-picture.com/UmbracoMedia/6301/furtilitydynamicwolfman.pdf", 
         "tags": [
             "mpc"
@@ -855,7 +855,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2898&context=all_theses", 
         "tags": [
             "clemson"
@@ -866,19 +866,16 @@
             "Pipeline", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2947696", 
-        "tags": [
-            "", 
-            "video", 
-            ""
-        ]
+        "tags": [],
+        "extra": "[[video]](https://vimeo.com/201047816)"
     }, 
     "Geometric fracture modeling in BOLT": {
         "categories": [
             "FX"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://pages.cs.wisc.edu/~sifakis/papers/bolt_fracture.pdf", 
         "tags": [
             "disney"
@@ -888,7 +885,7 @@
         "categories": [
             "Environments"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://freek3d.com/downloads/Freek_Hoekstra_Graduation_final_report_Final_PRINTED.pdf", 
         "tags": []
     }, 
@@ -897,7 +894,7 @@
             "Shading", 
             "Lighting & Rendering"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "http://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf", 
         "tags": [
             "realtime"
@@ -908,7 +905,7 @@
             "Pipeline", 
             "Lighting & Rendering"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf", 
         "tags": [
             "pixar", 
@@ -919,7 +916,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://webstaff.itn.liu.se/~jonun/web/teaching/2010-TNCG13/Lectures/OceansWithMathMattias.pdf", 
         "tags": [
             "realtime"
@@ -929,7 +926,7 @@
         "categories": [
             "Case studies"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://tdforum.eu/pdf/2012_Framestore_Iceland.pdf", 
         "tags": [
             "tdforum"
@@ -941,7 +938,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://people.cs.clemson.edu/~jtessen/papers_files/ateamclouds.pdf", 
         "tags": [
             "r&h"
@@ -952,7 +949,7 @@
             "FX", 
             "Fur & Feathers"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/10/Thesis.pdf", 
         "tags": [
             "houdini", 
@@ -963,7 +960,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://silviojemma.com/public/papers/lighting/FastRenderingOfUnprocessedPointClouds.WIMMER-2006-IP.pdf", 
         "tags": []
     }, 
@@ -971,7 +968,7 @@
         "categories": [
             "FEM"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614205&dl=ACM&coll=DL", 
         "tags": [
             "spi"
@@ -981,7 +978,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/68/asset/InteractiveLightingEffects_S2009.pdf", 
         "tags": [
             "disney"
@@ -991,7 +988,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://people.cs.clemson.edu/~jtessen/papers_files/Interactive_Water_Surfaces.pdf", 
         "tags": [
             "realtime", 
@@ -1002,7 +999,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://ken.museth.org/Publications_files/Lipton-etal_SIG13.pdf", 
         "tags": [
             "houdini"
@@ -1013,7 +1010,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "#", 
         "tags": []
     }, 
@@ -1021,7 +1018,7 @@
         "categories": [
             "FEM"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.moving-picture.com/UmbracoMedia/6309/kaliehighqualityfem.pdf", 
         "tags": [
             "mpc"
@@ -1033,7 +1030,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://grail.cs.washington.edu/projects/control/smokeControl.pdf", 
         "tags": []
     }, 
@@ -1042,7 +1039,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.museth.org/Ken/Publications_files/Opstal-etal_SIG14.pdf", 
         "tags": [
             "dwa"
@@ -1053,7 +1050,7 @@
             "CG", 
             "Lighting & Rendering"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://paroj.github.io/gltut/", 
         "tags": [
             "realtime"
@@ -1063,7 +1060,7 @@
         "categories": [
             "Coding"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134", 
         "tags": []
     }, 
@@ -1071,7 +1068,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://library.imageworks.com/pdfs/imageworks-library-levelsets-in-production-spider-man3.pdf", 
         "tags": [
             "spi"
@@ -1081,7 +1078,7 @@
         "categories": [
             "Pipeline"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.moving-picture.com/UmbracoMedia/6302/managingthousandofassetsprincepersia.pdf", 
         "tags": [
             "mpc"
@@ -1092,7 +1089,7 @@
             "Maths", 
             "CG"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869", 
         "tags": [
             "realtime"
@@ -1103,7 +1100,7 @@
             "Maths", 
             "CG"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Mathematics-Computer-Graphics-Undergraduate-Science/dp/1447173341", 
         "tags": []
     }, 
@@ -1112,7 +1109,7 @@
             "Shading", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://silviojemma.com/public/papers/lighting/sg05-shadingWood-lr.pdf", 
         "tags": []
     }, 
@@ -1120,7 +1117,7 @@
         "categories": [
             "Biology & Trees"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://algorithmicbotany.org/papers/colonization.egwnp2007.large.pdf", 
         "tags": []
     }, 
@@ -1130,7 +1127,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://engineering.purdue.edu/~ebertd/papers/Schpok_SCA_2005.pdf", 
         "tags": []
     }, 
@@ -1138,7 +1135,7 @@
         "categories": [
             "Biology & Trees"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://algorithmicbotany.org/papers/venation.sig2005.pdf", 
         "tags": []
     }, 
@@ -1146,7 +1143,7 @@
         "categories": [
             "Colors"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.tdforum.eu/pdf/2011ntfd_ocio_selan.pdf", 
         "tags": [
             "tdforum"
@@ -1156,7 +1153,7 @@
         "categories": [
             "Colors"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://www.hdm-stuttgart.de/vfx/alumni/bamathesis/pdf_016/", 
         "tags": []
     }, 
@@ -1165,7 +1162,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/13/thesis.pdf", 
         "tags": [
             "realtime", 
@@ -1176,7 +1173,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.openvdb.org/download/openvdb_production_2015.pdf", 
         "tags": [
             "houdini"
@@ -1186,7 +1183,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.openvdb.org/download/openvdb_houdini_2015.pdf", 
         "tags": [
             "houdini"
@@ -1196,7 +1193,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.openvdb.org/download/openvdb_toolset_2013.pdf", 
         "tags": [
             "houdini"
@@ -1206,7 +1203,7 @@
         "categories": [
             "Production"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://www.tdforum.eu/pdf/2012OutsourcingAndItsPipes.pdf", 
         "tags": [
             "tdforum"
@@ -1218,7 +1215,7 @@
             "Lighting & Rendering", 
             "Environments"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/155331/MURPHY-THESIS-2015.pdf?sequence=1&isAllowed=y", 
         "tags": []
     }, 
@@ -1227,7 +1224,7 @@
             "Liquids", 
             "Pipeline"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614106.2614203", 
         "tags": [
             "dneg"
@@ -1237,7 +1234,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/app?id=3306447068130864&itemId=1002089&lang=eng&service=blob&suite=de", 
         "tags": [
             "houdini", 
@@ -1250,7 +1247,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bmth.ac.uk/jmacey/MastersProjects/MSc07/DavidMinor/MSc%20Thesis.pdf", 
         "tags": [
             "houdini", 
@@ -1262,7 +1259,7 @@
             "CG", 
             "Lighting & Rendering"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "http://www.pbrt.org/", 
         "tags": []
     }, 
@@ -1270,7 +1267,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://graphics.pixar.com/library/PointBasedColorBleeding/paper.pdf", 
         "tags": [
             "pixar"
@@ -1280,7 +1277,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "https://graphics.pixar.com/library/PointBasedColorBleeding/SlidesFromAnnecy09.pdf", 
         "tags": [
             "pixar"
@@ -1291,7 +1288,7 @@
             "Lighting & Rendering", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://graphics.pixar.com/library/PointBasedGlobalIlluminationForMovieProduction/paper.pdf", 
         "tags": [
             "pixar"
@@ -1302,7 +1299,7 @@
             "PBD", 
             "CFX"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/12/thesis.pdf", 
         "tags": [
             "houdini", 
@@ -1315,7 +1312,7 @@
             "Liquids", 
             "PBD"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/09/mpthesis.pdf", 
         "tags": [
             "houdini", 
@@ -1326,7 +1323,7 @@
         "categories": [
             "Cities"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/app?id=7920016702909652&itemId=1002643&lang=eng&service=blob&suite=def+++", 
         "tags": [
             "houdini", 
@@ -1337,7 +1334,7 @@
         "categories": [
             "Misc."
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://pdfs.semanticscholar.org/1c1a/1da6faa24826ac76a5e1f0edc6e1a401faa3.pdf", 
         "tags": []
     }, 
@@ -1345,7 +1342,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://magnuswrenninge.com/content/pubs/ProductionVolumeRenderingFundamentals2011.pdf", 
         "tags": [
             "spi", 
@@ -1356,7 +1353,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf", 
         "tags": [
             "pixar", 
@@ -1368,7 +1365,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://magnuswrenninge.com/content/pubs/ProductionVolumeRenderingSystems2011.pdf", 
         "tags": [
             "houdini", 
@@ -1384,7 +1381,7 @@
             "Volumetrics", 
             "Lighting & Rendering"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Production-Rendering-Implementation-Magnus-Wrenninge/dp/156881724X", 
         "tags": []
     }, 
@@ -1392,7 +1389,7 @@
         "categories": [
             "Coding"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf", 
         "tags": []
     }, 
@@ -1400,7 +1397,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://graphics.pixar.com/library/RatSizedWater/paper.pdf", 
         "tags": [
             "pixar"
@@ -1412,7 +1409,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://pdfs.semanticscholar.org/847f/819a4ea14bd789aca8bc88e85e906cfc657c.pdf", 
         "tags": [
             "realtime"
@@ -1423,7 +1420,7 @@
             "Lighting & Rendering", 
             "Set"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://www.activision.com/cdn/research/Real_World_Measurements_for_Call_of_Duty_Advanced_Warfare.pdf", 
         "tags": [
             "realtime"
@@ -1433,7 +1430,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://ir.canterbury.ac.nz/xmlui/bitstream/handle/10092/7870/thesis_fulltext.pdf?sequence=1&isAllowed=y", 
         "tags": [
             "realtime"
@@ -1444,7 +1441,7 @@
             "Shading", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://silviojemma.com/public/papers/lighting/ShadingLighting.Siggraph.99.pdf", 
         "tags": []
     }, 
@@ -1452,7 +1449,7 @@
         "categories": [
             "Erosion"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://web.mit.edu/cesium/Public/terrain.pdf", 
         "tags": [
             "realtime"
@@ -1462,7 +1459,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/app?id=7255011066541100&itemId=1001416&lang=...&service=blob&suite=def", 
         "tags": [
             "houdini", 
@@ -1473,7 +1470,7 @@
         "categories": [
             "Rigging"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2791274&dl=ACM&coll=DL", 
         "tags": [
             "dwa"
@@ -1483,7 +1480,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://research.cs.wisc.edu/graphics/Gallery/mksung.vol/FinalDefense/Thesis/thesis.pdf", 
         "tags": []
     }, 
@@ -1491,7 +1488,7 @@
         "categories": [
             "Production"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO1_v2_handout.pdf", 
         "tags": []
     }, 
@@ -1499,7 +1496,7 @@
         "categories": [
             "History"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture02-FL/fo1_Extended_history.pdf", 
         "tags": []
     }, 
@@ -1508,7 +1505,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1937&context=all_theses", 
         "tags": [
             "houdini", 
@@ -1519,7 +1516,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sph_slides.pdf", 
         "tags": []
     }, 
@@ -1527,7 +1524,7 @@
         "categories": [
             "Stereo"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://tdforum.eu/pdf/principlesofstereoscopicproduction.pdf", 
         "tags": [
             "tdforum"
@@ -1538,7 +1535,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614121", 
         "tags": [
             "dwa"
@@ -1548,7 +1545,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://graphics.pixar.com/library/Whitewater/paper.pdf", 
         "tags": [
             "pixar"
@@ -1558,7 +1555,7 @@
         "categories": [
             "Biology & Trees"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://pdfs.semanticscholar.org/bdb0/d459310e04d7167130289e1a80f588d8f111.pdf", 
         "tags": []
     }, 
@@ -1566,7 +1563,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://diglib.eg.org/bitstream/handle/10.2312/14394/beacco.pdf?sequence=1&isAllowed=y", 
         "tags": [
             "realtime"
@@ -1576,7 +1573,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://silviojemma.com/public/papers/lighting/spherical-harmonic-lighting.pdf", 
         "tags": []
     }, 
@@ -1584,7 +1581,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/app?id=9096245370527043&itemId=1002049&lang=eng&service=blob&suite=de", 
         "tags": [
             "houdini", 
@@ -1595,7 +1592,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://silviojemma.com/public/papers/lighting/StupidSphericalHarmonics36.pdf", 
         "tags": []
     }, 
@@ -1604,7 +1601,7 @@
             "Pipeline", 
             "Coding"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO3_handout.pdf", 
         "tags": [
             "houdini"
@@ -1615,7 +1612,7 @@
             "FX", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2435&context=all_theses", 
         "tags": [
             "houdini", 
@@ -1626,7 +1623,7 @@
         "categories": [
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.andyselle.com/papers/16/tangled-water.pdf", 
         "tags": [
             "disney"
@@ -1638,7 +1635,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.cs.huji.ac.il/labs/cglab/projects/tdsmoke/tdsmoke.pdf", 
         "tags": []
     }, 
@@ -1646,7 +1643,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://advances.realtimerendering.com/other/2016/naughty_dog/NaughtyDog_TechArt_Final.pdf", 
         "tags": [
             "realtime"
@@ -1657,7 +1654,7 @@
             "Shading", 
             "CG"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Texturing-Modeling-Third-Procedural-Approach/dp/1558608486", 
         "tags": []
     }, 
@@ -1665,7 +1662,7 @@
         "categories": [
             "Colors"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.amazon.com/Art-Technique-Digital-Color-Correction/dp/024081715X", 
         "tags": []
     }, 
@@ -1674,7 +1671,7 @@
             "Fluids", 
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc07/MyaWin/mwin_thesis.pdf", 
         "tags": [
             "houdini", 
@@ -1685,7 +1682,7 @@
         "categories": [
             "Case studies"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614179&dl=ACM&coll=DL", 
         "tags": []
     }, 
@@ -1693,7 +1690,7 @@
         "categories": [
             "Shading"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2979&context=all_theses", 
         "tags": [
             "clemson"
@@ -1703,7 +1700,7 @@
         "categories": [
             "RBD"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "#", 
         "tags": [
             "ilm"
@@ -1713,7 +1710,7 @@
         "categories": [
             "Pipeline"
         ], 
-        "form": "video", 
+        "format": "video", 
         "link": "https://vimeo.com/188191100", 
         "tags": []
     }, 
@@ -1721,7 +1718,7 @@
         "categories": [
             "Pipeline"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "https://graphics.pixar.com/usd/files/USD_2013_07_pdf.pdf", 
         "tags": [
             "pixar"
@@ -1731,7 +1728,7 @@
         "categories": [
             "Unreal Engine"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.packtpub.com/game-development/unreal-engine-essentials", 
         "tags": [
             "realtime"
@@ -1741,7 +1738,7 @@
         "categories": [
             "Unreal Engine"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "http://www.worldofleveldesign.com/store/free-guides/ue4-beginners-crash-course-guide.php", 
         "tags": [
             "realtime"
@@ -1751,7 +1748,7 @@
         "categories": [
             "Unreal Engine"
         ], 
-        "form": "book", 
+        "format": "book", 
         "link": "https://www.packtpub.com/game-development/unreal-engine-game-development-blueprints", 
         "tags": [
             "realtime"
@@ -1761,7 +1758,7 @@
         "categories": [
             "Abstract"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://ecollections.scad.edu/iii/cpro/DigitalItemViewPage.external?lang=eng&sp=1003067&sp=T&sp=Pall%2CRk1000005%40%2CQziye+liu&suite=def", 
         "tags": [
             "houdini", 
@@ -1773,7 +1770,7 @@
             "Shading", 
             "Lighting & Rendering"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "http://www.proun-game.com/Oogst3D/ARTICLES/Using%20raycasting%20in%20GPU%20shaders%20to%20enhance%20real-time%20graphics.pdf", 
         "tags": [
             "realtime"
@@ -1783,7 +1780,7 @@
         "categories": [
             "Lighting & Rendering"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc17/07/report.pdf", 
         "tags": [
             "houdini", 
@@ -1797,7 +1794,7 @@
             "Volumetrics", 
             "Lighting & Rendering"
         ], 
-        "form": "presentation", 
+        "format": "presentation", 
         "link": "http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture03-MW/Wrenninge_2011_Volume_Rendering.pdf", 
         "tags": []
     }, 
@@ -1805,7 +1802,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?referer=https://www.google.de/&httpsredir=1&article=2926&context=all_theses", 
         "tags": [
             "clemson"
@@ -1817,7 +1814,7 @@
             "Volumetrics", 
             "Lighting & Rendering"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://graphics.pixar.com/library/Hair/paper.pdf", 
         "tags": [
             "pixar"
@@ -1827,7 +1824,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://magnuswrenninge.com/content/pubs/VolumetricMethodsInVisualEffects2010.pdf", 
         "tags": [
             "houdini", 
@@ -1841,7 +1838,7 @@
         "categories": [
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2614185&dl=ACM&coll=DL", 
         "tags": []
     }, 
@@ -1850,7 +1847,7 @@
             "FX", 
             "Volumetrics"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://research.dreamworks.com/papers/PussInBoots_Tornado_DWA_2012.pdf", 
         "tags": [
             "dwa"
@@ -1860,7 +1857,7 @@
         "categories": [
             "Crowds"
         ], 
-        "form": "thesis", 
+        "format": "thesis", 
         "link": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc14/10/report/MSc%20Thesis.pdf", 
         "tags": [
             "bournemouth"
@@ -1870,7 +1867,7 @@
         "categories": [
             "Animation"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "http://www.moving-picture.com/UmbracoMedia/6315/warpingthespacearoundanimated-object.pdf", 
         "tags": [
             "mpc"
@@ -1880,7 +1877,7 @@
         "categories": [
             "FX"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2343106&dl=ACM&coll=DL", 
         "tags": [
             "method"
@@ -1891,7 +1888,7 @@
             "FX", 
             "Liquids"
         ], 
-        "form": "paper", 
+        "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2343107&dl=ACM&coll=DL", 
         "tags": [
             "method"

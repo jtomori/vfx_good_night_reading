@@ -1,5 +1,5 @@
 """
-This file was used for conversion of my initial approach (writing everything by hand) into more programmable one.
+This script was used for conversion of my initial approach (writing everything by hand) into more programmable one.
 
 This script should not be needed after one-time conversion.
 """
@@ -36,7 +36,7 @@ for cat, entries in cat_dict.iteritems():
 
         dict_entry = {}
         dict_entry["link"] = parts[1]
-        dict_entry["form"] = parts[2]
+        dict_entry["format"] = parts[2]
         dict_entry["tags"] = parts[3:]
         dict_entry["categories"] = [cat]
 

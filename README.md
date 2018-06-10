@@ -55,7 +55,7 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 * [Lighting & Rendering](#lighting--rendering)
 * [Liquids](#liquids)
 * [Maths](#maths)
-* [Misc.](#misc.)
+* [Misc.](#misc)
 * [Oceans](#oceans)
 * [PBD](#pbd)
 * [Pipeline](#pipeline)

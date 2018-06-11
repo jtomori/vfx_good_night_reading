@@ -18,7 +18,7 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 
 See [generate.py](./generate.py) for instructions about generating this page.
 
-[![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#) [![GitHub stars](https://img.shields.io/github/stars/jtomori/vfx_good_night_reading.svg?style=for-the-badge&label=Stars)](https://github.com/jtomori/vfx_good_night_reading/stargazers)
+[![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![GitHub stars](https://img.shields.io/github/stars/jtomori/vfx_good_night_reading.svg?style=for-the-badge&label=Stars)](https://github.com/jtomori/vfx_good_night_reading/stargazers)
 """
 
 tags_links = {

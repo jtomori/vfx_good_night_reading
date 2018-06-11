@@ -18,7 +18,7 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 
 See [generate.py](./generate.py) for instructions about generating this page.
 
-[![Total entries](https://img.shields.io/badge/total_entries:-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![Total entries](https://img.shields.io/badge/total_categories:-{total_categories}-green.svg?longCache=true&style=for-the-badge)](#list)
+[![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-{total_categories}-green.svg?longCache=true&style=for-the-badge)](#categories)
 """
 
 tags_links = {

@@ -35,6 +35,7 @@ formats_set = set()
 tags_set = set()
 categories_set = set()
 categories_dict = {}
+tags_counter = {}
 
 for title, entry in lib_json.iteritems():
     formats_set = formats_set | set([ entry["format"] ])
@@ -47,6 +48,12 @@ for title, entry in lib_json.iteritems():
             categories_dict[cat] = { title : entry }
         else:
             categories_dict[cat][title] = entry
+    
+    for tag in entry["tags"]:
+        if tag not in tags_counter.keys():
+            tags_counter[tag] = 1
+        else:
+            tags_counter[tag] = tags_counter[tag] + 1
 
 formats_list = list(formats_set)
 formats_list.sort()
@@ -68,9 +75,10 @@ for fmt in formats_list:
 page_tags = "### Tags\n"
 
 for tag in tags_list:
+    tag_orig = tag
     if tag in tags_links:
         tag = "[{}]({})".format(tag, tags_links[tag])
-    page_tags = page_tags + "* {}\n".format(tag)
+    page_tags = page_tags + "* {} ({})\n".format(tag, tags_counter[tag_orig])
 
 # generate categories section
 def filter_links(char):
@@ -82,7 +90,7 @@ for cat in categories_list:
     link = ''.join(filter(filter_links, link))
     link = link.replace(" ", "-")
     
-    page_categories = page_categories + "* [{}](#{})\n".format(cat, link)
+    page_categories = page_categories + "* [{}](#{}) ({})\n".format(cat, link, len( categories_dict[cat].keys() ) )
 
 # generate entries section
 page_entries = "## List\n<br>\n"
@@ -95,7 +103,7 @@ for cat, entries in sorted(categories_dict.iteritems()):
         tags.sort()
         tags_str = ""
         for tag in tags:
-            tags_str = tags_str + " [{}]".format(tag)
+            tags_str = tags_str + " `{}`".format(tag)
         
         if data.has_key("extra"):
             tags_str = tags_str + " " + data["extra"]

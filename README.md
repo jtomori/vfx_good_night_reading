@@ -9,7 +9,7 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 
 See [generate.py](./generate.py) for instructions about generating this page.
 
-![Total entries](https://img.shields.io/badge/total_entries-188-green.svg?longCache=true&style=for-the-badge)
+![Total entries](https://img.shields.io/badge/total_entries-188-green.svg?longCache=true&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=for-the-badge&label=Stars)
 
 <br>
 

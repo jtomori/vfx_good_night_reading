@@ -25,6 +25,7 @@ tags_links = {
     "spi":          "http://library.imageworks.com/",
     "mpc":          "http://www.moving-picture.com/film/content-pages/technology/",
     "dwa":          "http://research.dreamworks.com/",
+    "weta":         "https://www.wetafx.co.nz/research-and-tech/publications/",
     "scad":         "http://ecollections.scad.edu/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def",
     "pixar":        "https://graphics.pixar.com/library/",
     "disney":       "https://www.disneyresearch.com/publication/",

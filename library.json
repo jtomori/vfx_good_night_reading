@@ -551,7 +551,10 @@
         ], 
         "format": "paper", 
         "link": "https://dl.acm.org/citation.cfm?id=2849519&dl=ACM&coll=DL", 
-        "tags": []
+        "tags": [
+            "nvidia",
+            "realtime"
+        ]
     }, 
     "Course introduction and overview of destruction and dynamics techniques": {
         "categories": [
@@ -659,13 +662,16 @@
             "ilm"
         ]
     }, 
-    "Destruction and dynamics artist tools for film": {
+    "Procedural Methods For Large Scale Destruction": {
         "categories": [
             "RBD"
         ], 
         "format": "presentation", 
         "link": "http://bulletphysics.org/siggraph2011/nafees_siggraph2011.pdf", 
-        "tags": []
+        "tags": [
+            "dwa",
+            "dd"
+        ]
     }, 
     "Developing a unified pipeline with character": {
         "categories": [
@@ -1373,7 +1379,8 @@
             "dwa", 
             "clemson", 
             "dneg", 
-            "r&h"
+            "r&h",
+            "weta"
         ]
     }, 
     "Production Volume Rendering: Design and Implementation": {
@@ -1892,6 +1899,357 @@
         "link": "https://dl.acm.org/citation.cfm?id=2343107&dl=ACM&coll=DL", 
         "tags": [
             "method"
+        ]
+    },
+    "Fully automatic ID mattes with support for motion blur and transparency": {
+        "categories": [
+            "Lighting & Rendering", 
+            "Pipeline"
+        ], 
+        "format": "paper", 
+        "link": "https://github.com/Psyop/Cryptomatte/raw/master/specification/IDmattes_poster.pdf", 
+        "tags": []
+    },
+    "Geometry into Shading": {
+        "categories": [
+            "Lighting & Rendering", 
+            "Shading"
+        ], 
+        "format": "paper", 
+        "link": "https://graphics.pixar.com/library/BumpRoughness/paper.pdf", 
+        "tags": [
+            "pixar"
+        ]
+    },
+    "The Jungle Book: art-directing procedural scatters in rich environments": {
+        "categories": [
+            "Environments", 
+            "Biology & Trees"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2947692&dl=ACM&coll=DL", 
+        "tags": [
+            "mpc"
+        ]
+    },
+    "A Comprehensive Framework for Rendering Layered Materials": {
+        "categories": [
+            "Lighting & Rendering",
+            "Shading"
+        ], 
+        "format": "paper", 
+        "link": "http://www.cs.cornell.edu/projects/layered-sg14/layered.pdf", 
+        "tags": [
+            "weta"
+        ]
+    },
+    "Adaptive tearing and cracking of thin sheets": {
+        "categories": [
+            "FX"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2601132", 
+        "tags": []
+    },
+    "Multiple-Scattering Microfacet BSDFs with the Smith Model": {
+        "categories": [
+            "Lighting & Rendering",
+            "Shading"
+        ], 
+        "format": "paper", 
+        "link": "https://jo.dreggn.org/home/2015_microfacets.pdf", 
+        "tags": []
+    },
+    "Manifold Exploration: A Markov Chain Monte Carlo Technique for Rendering Scenes with Difficult Specular Transport": {
+        "categories": [
+            "Lighting & Rendering",
+            "Shading"
+        ], 
+        "format": "paper", 
+        "link": "http://www.cs.cornell.edu/projects/manifolds-sg12/manifolds-sg12.pdf", 
+        "tags": []
+    },
+    "Skin Microstructure Deformation with Displacement Map Convolution": {
+        "categories": [
+            "Shading"
+        ], 
+        "format": "paper", 
+        "link": "http://gl.ict.usc.edu/Research/SkinStretch/", 
+        "tags": []
+    },
+    "Separable Subsurface Scattering": {
+        "categories": [
+            "Lighting & Rendering",
+            "Shading"
+        ], 
+        "format": "paper", 
+        "link": "http://www.iryoku.com/separable-sss/", 
+        "tags": []
+    },
+    "Implicit skinning: real-time skin deformation with contact modeling": {
+        "categories": [
+            "Rigging",
+            "Animation"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2461960", 
+        "tags": []
+    },
+    "Procedural wrinkles generation in the implicit skinning framework": {
+        "categories": [
+            "Shading",
+            "Rigging",
+            "Animation"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2820937", 
+        "tags": [
+            "mpc",
+            "bournemouth"
+        ]
+    },
+    "Designing an interaction with an octopus": {
+        "categories": [
+            "Rigging",
+            "Animation"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2927434", 
+        "tags": [
+            "pixar"
+        ]
+    },
+    "AutoSpline: animation controls only when and where you need them": {
+        "categories": [
+            "Rigging",
+            "Animation"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2927439", 
+        "tags": [
+            "pixar"
+        ]
+    },
+    "Total Moving Face Reconstruction": {
+        "categories": [
+            "Misc.",
+            "Rigging",
+            "Animation"
+        ], 
+        "format": "paper", 
+        "link": "http://grail.cs.washington.edu/projects/totalmoving/", 
+        "tags": []
+    },
+    "Narrow Band FLIP for Liquid Simulations": {
+        "categories": [
+            "FX",
+            "Liquids",
+            "Volumetrics"
+        ], 
+        "format": "paper", 
+        "link": "https://wwwcg.in.tum.de/fileadmin/user_upload/Lehrstuehle/Lehrstuhl_XV/Research/Publications/2016/NBFlip/nbflip.pdf", 
+        "tags": []
+    },
+    "Screen Space Fluid Rendering for Games": {
+        "categories": [
+            "Liquids",
+            "FX",
+            "Shading",
+            "Lighting & Rendering"
+        ], 
+        "format": "paper", 
+        "link": "http://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf", 
+        "tags": [
+            "nvidia",
+            "realtime"
+        ]
+    },
+    "Sketch to pose in Pixar's presto animation system": {
+        "categories": [
+            "Animation",
+            "Rigging"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2792583", 
+        "tags": [
+            "pixar"
+        ]
+    },
+    "Achieving Real-Time Playback with Production Rigs": {
+        "categories": [
+            "Rigging",
+            "Animation"
+        ], 
+        "format": "paper", 
+        "link": "https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/161/asset/realTime.pdf", 
+        "tags": [
+            "disney",
+            "realtime"
+        ]
+    },
+    "Parallel Processing within a Host Application": {
+        "categories": [
+            "Pipeline",
+            "Lighting & Rendering",
+            "Rigging"
+        ], 
+        "format": "presentation", 
+        "link": "http://www.multithreadingandvfx.org/course_notes/2017/disney_MultiThreading_SIGGRAPH2017.pdf", 
+        "tags": [
+            "disney",
+            "realtime"
+        ]
+    },
+    "Camera Space Volumetric Shadows": {
+        "categories": [
+            "Volumetrics",
+            "Lighting & Rendering"
+        ], 
+        "format": "paper", 
+        "link": "https://jo.dreggn.org/home/2012_camera_space.pdf", 
+        "tags": [
+            "weta"
+        ]
+    },
+    "Large scale VFX pipelines": {
+        "categories": [
+            "Pipeline"
+        ], 
+        "format": "paper", 
+        "link": "https://dl.acm.org/citation.cfm?id=2947689", 
+        "tags": [
+            "weta"
+        ]
+    },
+    "The path tracing revolution in the movie industry": {
+        "categories": [
+            "Lighting & Rendering",
+            "Shading"
+        ], 
+        "format": "presentation", 
+        "link": "https://sites.google.com/site/pathtracingrevolution/", 
+        "tags": [
+            "nvidia",
+            "weta",
+            "pixar",
+            "disney"
+        ]
+    },
+    "The Path to Path-Traced Movies": {
+        "categories": [
+            "Lighting & Rendering",
+            "Shading"
+        ], 
+        "format": "paper", 
+        "link": "https://graphics.pixar.com/library/PathTracedMovies/paper.pdf", 
+        "tags": [
+            "pixar"
+        ]
+    },
+    "MANIFOLD NEXT EVENT ESTIMATION": {
+        "categories": [
+            "Lighting & Rendering",
+            "Shading"
+        ], 
+        "format": "presentation", 
+        "link": "https://jo.dreggn.org/home/2015_mnee_talk.pdf", 
+        "tags": [
+            "weta"
+        ]
+    },
+    "Adaptive Nonlinearity for Collisions in Complex Rod Assemblies": {
+        "categories": [
+            "Fur & Feathers",
+            "FX"
+        ], 
+        "format": "paper", 
+        "link": "http://www.cs.columbia.edu/cg/adonis/adonis-lowres.pdf", 
+        "tags": [
+            "disney",
+            "weta"
+        ]
+    },
+    "Can We Solve the Pipeline Problem?": {
+        "categories": [
+            "Pipeline"
+        ], 
+        "format": "paper", 
+        "link": "https://researchspace.auckland.ac.nz/bitstream/handle/2292/23903/471Cris.pdf?sequence=1", 
+        "tags": [
+            "weta"
+        ]
+    },
+    "Sky Browser: Search for HDR Sky Maps": {
+        "categories": [
+            "Lighting & Rendering"
+        ], 
+        "format": "paper", 
+        "link": "http://computergraphics.ac.nz/assets/research/SkyBrowser.pdf", 
+        "tags": [
+            "weta"
+        ]
+    },
+    "MARCHING CUBES: A HIGH RESOLUTION 3D SURFACE CONSTRUCTION ALGORITHM": {
+        "categories": [
+            "Volumetrics"
+        ], 
+        "format": "paper", 
+        "link": "http://academy.cba.mit.edu/classes/scanning_printing/MarchingCubes.pdf", 
+        "tags": []
+    },
+    "An Energy-Conserving Hair Reflectance Model": {
+        "categories": [
+            "Shading",
+            "Fur & Feathers",
+            "Lighting & Rendering"
+        ], 
+        "format": "paper", 
+        "link": "http://www.eugenedeon.com/wp-content/uploads/2014/04/egsrhair.pdf", 
+        "tags": [
+            "weta"
+        ]
+    },
+    "High-contrast Computational Caustic Design": {
+        "categories": [
+            "Lighting & Rendering"
+        ], 
+        "format": "paper", 
+        "link": "http://lgg.epfl.ch/publications/2014/Caustics/", 
+        "tags": []
+    },
+    "Smooth Skinning Decomposition with Rigid Bones": {
+        "categories": [
+            "Animation",
+            "Rigging",
+            "FX"
+        ], 
+        "format": "paper", 
+        "link": "http://graphics.cs.uh.edu/wp-content/papers/2012/2012_SA_SSDR_preprint.pdf", 
+        "tags": [
+            "realtime"
+        ]
+    },
+    "MoSh: Motion and Shape Capture from Sparse Markers": {
+        "categories": [
+            "Animation",
+            "Rigging"
+        ], 
+        "format": "paper", 
+        "link": "http://files.is.tue.mpg.de/black/papers/MoSh.pdf", 
+        "tags": []
+    },
+    "Real-Time Volumetric Cloudscapes of Horizon Zero Dawn": {
+        "categories": [
+            "Volumetrics",
+            "Shading",
+            "Lighting & Rendering",
+            "FX",
+            "Fluids"
+        ], 
+        "format": "presentation", 
+        "link": "http://killzone.dl.playstation.net/killzone/horizonzerodawn/presentations/Siggraph15_Schneider_Real-Time_Volumetric_Cloudscapes_of_Horizon_Zero_Dawn.pdf", 
+        "tags": [
+            "realtime"
         ]
     }
 }

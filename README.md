@@ -496,3 +496,9 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Volumetric Methods in Visual Effects SIGGRAPH 2010 Course Notes](http://magnuswrenninge.com/content/pubs/VolumetricMethodsInVisualEffects2010.pdf) **paper** `dneg` `dwa` `houdini` `r&h` `spi`
 * [Volumetric dense mesh deformation in the Tengu Monk fight](https://dl.acm.org/citation.cfm?id=2614185&dl=ACM&coll=DL) **paper**
 * [Vortex of Awesomeness](http://research.dreamworks.com/papers/PussInBoots_Tornado_DWA_2012.pdf) **paper** `dwa`
+
+<br>
+
+### Contributing
+Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jtomori)
+

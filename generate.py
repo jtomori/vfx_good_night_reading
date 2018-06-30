@@ -126,7 +126,13 @@ for cat, entries in sorted(categories_dict.iteritems()):
         entry = "\n* [{}]({}) **{}**{}".format( title.encode('utf-8'), data["link"], data["format"], tags_str )
         page_entries = page_entries + entry
 
-page = "\n<br>\n\n".join( [page_intro, page_format, page_tags, page_categories, page_entries] )
+page_entries += "\n"
+
+page_contributing = """### Contributing
+Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jtomori)
+"""
+
+page = "\n<br>\n\n".join( [page_intro, page_format, page_tags, page_categories, page_entries, page_contributing] )
 page = page + "\n"
 
 with open("README.md", "w") as out_file:

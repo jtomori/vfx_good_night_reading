@@ -1018,7 +1018,10 @@
         ], 
         "format": "thesis", 
         "link": "#", 
-        "tags": []
+        "tags": [
+            "bournemouth",
+            "houdini"
+        ]
     }, 
     "Kali: High Quality FEM Destruction in Zack Snyder’s Sucker Punch": {
         "categories": [

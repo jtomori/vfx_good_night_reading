@@ -23,13 +23,13 @@ See [generate.py](./generate.py) for instructions about generating this page.
 <br>
 
 ### Tags
-* [bournemouth](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/) (20)
+* [bournemouth](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/) (21)
 * [clemson](https://tigerprints.clemson.edu/theses/) (10)
 * dd (2)
 * [disney](https://www.disneyresearch.com/publication/) (13)
 * dneg (3)
 * [dwa](http://research.dreamworks.com/) (15)
-* houdini (37)
+* houdini (38)
 * ilm (4)
 * method (2)
 * [mpc](http://www.moving-picture.com/film/content-pages/technology/) (10)
@@ -212,7 +212,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [I Love It When A Cloud Comes Together](https://people.cs.clemson.edu/~jtessen/papers_files/ateamclouds.pdf) **paper** `r&h`
 * [Implementation of Artistic Curly Hair Dynamics in Houdini](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/10/Thesis.pdf) **thesis** `bournemouth` `houdini`
 * [Jack's Frost: Controllable Magic Frost Simulations for 'Rise of the Guardians'](http://ken.museth.org/Publications_files/Lipton-etal_SIG13.pdf) **paper** `houdini`
-* [Jam: Major Project Report Peter Claes](#) **thesis**
+* [Jam: Major Project Report Peter Claes](#) **thesis** `bournemouth` `houdini`
 * [Keyframe Control of Smoke Simulations](http://grail.cs.washington.edu/projects/control/smokeControl.pdf) **paper**
 * [Large Scale Simulation and Surfacing of Water and Ice Effects in Dragons 2](http://www.museth.org/Ken/Publications_files/Opstal-etal_SIG14.pdf) **paper** `dwa`
 * [Levelsets in Production: Spider-Man 3](http://library.imageworks.com/pdfs/imageworks-library-levelsets-in-production-spider-man3.pdf) **paper** `spi`
@@ -331,7 +331,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Creating realistic CG honey](https://dl.acm.org/citation.cfm?id=1280784) **paper** `dwa`
 * [Highly Detailed Fluid Simulations on the GPU](http://webstaff.itn.liu.se/~jonun/web/teaching/2010-TNCG13/Lectures/OceansWithMathMattias.pdf) **presentation** `realtime`
 * [Interactive Water Surfaces](https://people.cs.clemson.edu/~jtessen/papers_files/Interactive_Water_Surfaces.pdf) **paper** `r&h` `realtime`
-* [Jam: Major Project Report Peter Claes](#) **thesis**
+* [Jam: Major Project Report Peter Claes](#) **thesis** `bournemouth` `houdini`
 * [Large Scale Simulation and Surfacing of Water and Ice Effects in Dragons 2](http://www.museth.org/Ken/Publications_files/Opstal-etal_SIG14.pdf) **paper** `dwa`
 * [Narrow Band FLIP for Liquid Simulations](https://wwwcg.in.tum.de/fileadmin/user_upload/Lehrstuehle/Lehrstuhl_XV/Research/Publications/2016/NBFlip/nbflip.pdf) **paper**
 * [OpenGL GPU Features and SPH Fluid](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/13/thesis.pdf) **thesis** `bournemouth` `realtime`

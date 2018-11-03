@@ -1193,12 +1193,6 @@ Production Volume Rendering Systems SIGGRAPH 2011 Course Notes:
     format: book
     link: https://www.amazon.com/Production-Rendering-Implementation-Magnus-Wrenninge/dp/156881724X
     tags: []
-Programming Computer Vision with Python:
-    categories:
-        - Coding
-    format: book
-    link: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
-    tags: []
 Rat-Sized Water Effects in Ratatouille:
     categories:
         - Liquids
@@ -1525,12 +1519,14 @@ Total Moving Face Reconstruction:
 USD-Based Pipeline (2016):
     categories:
         - Pipeline
+        - USD
     format: video
     link: https://vimeo.com/188191100
     tags: []
 Universal Scene Description:
     categories:
         - Pipeline
+        - USD
     format: presentation
     link: https://graphics.pixar.com/usd/files/USD_2013_07_pdf.pdf
     tags:
@@ -1669,3 +1665,312 @@ Rendering Worlds with Two Triangles with raytracing on the GPU:
     format: presentation
     link: http://www.iquilezles.org/www/material/nvscene2008/rwwtt.pdf
     tags: []
+Deep Learning:
+    categories:
+        - Maths
+        - Machine Learning
+    format: book
+    link: https://www.deeplearningbook.org/
+    tags: []
+An elementary introduction to matrix exponential for CG:
+    categories:
+        - Maths
+    format: paper
+    link: https://dl.acm.org/citation.cfm?doid=2897826.2927338
+    tags: []
+Programming Computer Vision with Python:
+    categories:
+        - Maths
+        - Computer Vision
+        - Machine Learning
+        - Coding
+    format: book
+    link: http://programmingcomputervision.com/
+    tags: []
+A hybrid approach to procedural tree skeletonization:
+    categories:
+        - FX
+        - Biology & Trees
+        - Rigging
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3085065
+    tags:
+        - pixar
+        - houdini
+"CGAL: the computational geometry algorithms library":
+    categories:
+        - Maths
+        - Coding
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2927362
+    tags: []
+"libigl: prototyping geometry processing research in C++":
+    categories:
+        - Maths
+        - Coding
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3134497
+    tags: []
+Getting started with webGL and three.js:
+    categories:
+        - Maths
+        - Coding
+        - Realtime
+    format: presentation
+    link: https://dl.acm.org/citation.cfm?id=3214861
+    tags: 
+        - nvidia
+State-of-the-art webGL 2.0:
+    categories:
+        - Maths
+        - Coding
+        - Realtime
+    format: presentation
+    link: https://dl.acm.org/citation.cfm?id=3134479
+    tags:
+        - nvidia
+Fundamentals of color science:
+    categories:
+        - Maths
+        - Colors
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214834.3214846
+    tags: []
+Procedural Fluid Textures:
+    categories:
+        - FX
+        - Colors
+        - Shading
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214767
+    tags: []
+'Color in advanced displays: HDR, OLED, AR & VR':
+    categories:
+        - Maths
+        - Colors
+        - VR
+    format: presentation
+    link: https://dl.acm.org/citation.cfm?id=3214840
+    tags: []
+"Fractal anatomy: imaging internal and ambient structures":
+    categories:
+        - Fractals
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3230748
+    tags: []
+Fractal multiverses in VR:
+    categories:
+        - Fractals
+        - Realtime
+        - VR
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214813
+    tags:
+        - framestore
+'Building detailed fractal sets for "Guardians of the Galaxy Vol. 2"':
+    categories:
+        - Fractals
+        - FX
+        - Lighting & Rendering
+        - Environments
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3085060
+    tags:
+        - al
+        - houdini
+"Racing to the finish line: effects challenges on Cars 3":
+    categories:
+        - FX
+        - Fluids
+        - Liquids
+        - Volumetrics
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3085160&dl=ACM&coll=DL
+    tags:
+        - pixar
+        - houdini
+The effects of The Jungle Book:
+    categories:
+        - FX
+        - Fluids
+        - Liquids
+        - Volumetrics
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2927413
+    tags:
+        - mpc
+        - houdini
+"Moana: Foundation of a Lava Monster":
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/166/asset/Moana_Foundation_of_a_Lava_Monster.pdf
+    tags:
+        - disney
+        - houdini
+'Nubis: Authoring Real-Time Volumetric Cloudscapes with the Decima Engine':
+    categories:
+        - Realtime
+        - FX
+        - Fluids
+        - Volumetrics
+        - Shading
+        - Lighting & Rendering
+    format: presentation
+    link: http://advances.realtimerendering.com/s2017/Nubis%20-%20Authoring%20Realtime%20Volumetric%20Cloudscapes%20with%20the%20Decima%20Engine%20-%20Final%20.pdf
+    tags: []
+"Star Wars: The Last Jedi - effects simulation":
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+        - RBD
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214778
+    tags:
+        - ilm
+        - houdini
+"Rogue One: A Star Wars Story - Jedha destruction":
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+        - RBD
+        - Environments
+        - Lighting & Rendering
+        - Shading
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3085068
+    tags:
+        - ilm
+        - houdini
+"The water effects of Pirates of the Caribbean: Dead Men Tell no Tales":
+    categories:
+        - FX
+        - Fluids
+        - Liquids
+        - Lighting & Rendering
+        - Oceans
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3085044
+    tags:
+        - mpc
+        - houdini
+'Big data visual analytics: fundamentals, techniques, and tools':
+    categories:
+        - Maths
+        - Machine Learning
+    format: presentation
+    link: https://dl.acm.org/citation.cfm?id=3134516
+    tags: []
+"Deep learning: a crash course":
+    categories:
+        - Maths
+        - Machine Learning
+    format: presentation
+    link: https://dl.acm.org/citation.cfm?id=3214856
+    tags: []
+Machine learning and rendering:
+    categories:
+        - Maths
+        - Machine Learning
+        - Lighting & Rendering
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214841
+    tags:
+        - nvidia
+        - disney
+Robust solving of optical motion capture data by denoising:
+    categories:
+        - Machine Learning
+        - Animation
+        - Motion Capture
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3201302
+    tags: []
+Self-similarity Analysis for Motion Capture Cleaning:
+    categories:
+        - Machine Learning
+        - Animation
+        - Motion Capture
+    format: paper
+    link: https://pdfs.semanticscholar.org/22f4/d088646549a8cafdbd2fe48eeceb6c02a827.pdf
+    tags: []
+An Artist-Friendly Workflow for Panoramic HDRI:
+    categories:
+        - Set
+        - Lighting & Rendering
+        - Realtime
+        - Photogrammetry
+    format: presentation
+    link: https://blog.selfshadow.com/publications/s2016-shading-course/unity/s2016_pbs_unity_hdri.pdf
+    tags: []
+Photogrammetry Workflow:
+    categories:
+        - Photogrammetry
+        - Set
+        - Realtime
+        - Shading
+        - Lighting & Rendering
+    format: book
+    extra: '[[video]](https://www.youtube.com/watch?v=Ny9ZXt_2v2Y)'
+    link: https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf
+    tags: []
+Cloudy with a chance of rendering:
+    categories:
+        - Pipeline
+        - Lighting & Rendering
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3084363.3085041
+    tags:
+        - mpc
+Flexible pipeline for crowd production:
+    categories:
+        - Pipeline
+        - Crowds
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3085042
+    tags:
+        - dneg
+        - houdini
+Zero to USD in 80 days:
+    categories:
+        - Pipeline
+        - USD
+        - Case studies
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214745.3214816
+    tags:
+        - dwa
+Forging a new animation pipeline with USD:
+    categories:
+        - Pipeline
+        - USD
+        - Case studies
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214779
+    tags:
+        - al
+"Walter: an open source VFX framework for USD and alembic":
+    categories:
+        - Pipeline
+        - USD
+        - Case studies
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3214772
+    tags:
+        - houdini
+"Dear angelica: breathing life into VR illustrations":
+    categories:
+        - Realtime
+        - VR
+        - Animation
+        - Shading
+        - Lighting & Rendering
+        - Case studies
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=3085073
+    tags:
+        - houdini

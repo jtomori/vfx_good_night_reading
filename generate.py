@@ -1,7 +1,7 @@
 """
-This script is used to generate README.md based on library.json
+This script is used to generate README.md based on library.yml
 
-Please do not edit directly README.md, but modify entries in library.json and then re-generate README.md by running `$ python generate.py`
+Please do not edit directly README.md, but modify entries in library.yml and then re-generate README.md by running `$ python generate.py`
 """
 
 import yaml

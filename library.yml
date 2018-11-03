@@ -1,0 +1,1661 @@
+3D Fractal Flame Wisps:
+    categories:
+        - Volumetrics
+        - Lighting & Rendering
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2704&context=all_theses
+    tags:
+        - clemson
+3D Math Primer for Graphics andGame Development:
+    categories:
+        - Maths
+        - CG
+    format: book
+    link: https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231
+    tags: []
+3D Particle in Cell / Fluid Implicit Particle Fluid Solver using OpenMP directives:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc12/Ioannidis/Thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+A Comprehensive Framework for Rendering Layered Materials:
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: paper
+    link: http://www.cs.cornell.edu/projects/layered-sg14/layered.pdf
+    tags:
+        - weta
+A Fluid Implicit Particle (FLIP) Solver Built in Houdini:
+    categories:
+        - Liquids
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/01/thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+A Fluid Implicit Particle Approach to a Pyro Solver in Houdini:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc11/Ahmad/aghourab_MSc_Thesis_Public.pdf
+    tags:
+        - houdini
+        - bournemouth
+A Multiscale Approach to Mesh-based Surface Tension Flows:
+    categories:
+        - FX
+        - Liquids
+    format: paper
+    link: https://www.cc.gatech.edu/~turk/my_papers/surface_tension.pdf
+    tags: []
+A Pipeline for 800+ shots:
+    categories:
+        - Pipeline
+    format: paper
+    link: http://www.moving-picture.com/UmbracoMedia/6303/800pipeline.pdf
+    tags:
+        - mpc
+A Programmable System for Artistic Volumetric Lighting:
+    categories:
+        - FX
+    format: paper
+    link: https://www.iro.umontreal.ca/~derek/files/nowrouzezahrai11programmable.pdf
+    tags:
+        - disney
+A STUDY OF PROCEDURAL GROWTH ALGORITHMS AND ITS IMPLEMENTATION IN HOUDINI:
+    categories:
+        - FX
+        - Biology & Trees
+    format: thesis
+    link: http://edwardfx.weebly.com/uploads/9/0/7/5/9075896/innovationsreport.pdf
+    tags:
+        - houdini
+        - bournemouth
+A System For Crowd Rendering:
+    categories:
+        - Crowds
+        - Lighting & Rendering
+    format: paper
+    link: http://www.moving-picture.com/UmbracoMedia/6299/asystemcrowd.pdf
+    tags:
+        - mpc
+A Technique for Art Direction of Physically Based Fire Simulation:
+    categories:
+        - Fluids
+        - Volumetrics
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2178&context=all_theses
+    tags:
+        - clemson
+A VFX ocean toolkit with real time preview:
+    categories:
+        - Oceans
+    format: thesis
+    link: http://www.diva-portal.org/smash/get/diva2:272268/FULLTEXT02
+    tags:
+        - realtime
+A position-based dynamics system for animated character effects:
+    categories:
+        - PBD
+        - CFX
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614147
+    tags:
+        - dwa
+APES & BLOCKS OF FOAM:
+    categories:
+        - Case studies
+    format: presentation
+    link: http://tdforum.eu/pdf/2012OlliRajala_Apes_and_Blocks_of_Foam.pdf
+    tags:
+        - tdforum
+APPLICATION OF 3D PROCEDURAL ANIMATION TO THE VISUAL PRESENTATION OF MUSIC:
+    categories:
+        - Abstract
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/DigitalItemViewPage.external;jsessionid=759FFC197353BBFCE1B1DC109DDE108F?lang=eng&sp=1000810&sp=T&sp=1&suite=def+++
+    tags:
+        - houdini
+        - scad
+APPLYING COLOR THEORY TO DIGITAL MEDIA & VISUALIZATION:
+    categories:
+        - Colors
+    format: presentation
+    link: http://media.siggraph.org/education/cgsource/color/TM_Rhyne_Color_Theory_Class_SIGGRAPH_Education_Committee2.pdf
+    tags: []
+ART DIRECTABLE TORNADOES:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: thesis
+    link: http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/ETD-TAMU-2011-05-9417/DWIVEDI-THESIS.pdf?sequence=2
+    tags:
+        - houdini
+"Accelerating Rigid Body Simulationon Today\u2019s GPUs":
+    categories:
+        - RBD
+    format: presentation
+    link: http://bulletphysics.org/siggraph2011/takahiro_siggraph2011.pdf
+    tags:
+        - realtime
+Achieving Real-Time Playback with Production Rigs:
+    categories:
+        - Rigging
+        - Animation
+    format: paper
+    link: https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/161/asset/realTime.pdf
+    tags:
+        - disney
+        - realtime
+Adaptive Nonlinearity for Collisions in Complex Rod Assemblies:
+    categories:
+        - Fur & Feathers
+        - FX
+    format: paper
+    link: http://www.cs.columbia.edu/cg/adonis/adonis-lowres.pdf
+    tags:
+        - disney
+        - weta
+Adaptive tearing and cracking of thin sheets:
+    categories:
+        - FX
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2601132
+    tags: []
+Advanced Animation and Rendering Techniques:
+    categories:
+        - CG
+        - Lighting & Rendering
+    format: book
+    link: https://www.amazon.com/Advanced-Animation-Rendering-Techniques-Alan/dp/0201544121
+    tags: []
+Advanced Applications of OpenVDB in Production:
+    categories:
+        - Volumetrics
+    format: presentation
+    link: http://www.openvdb.org/download/openvdb_particle_storage_2015.pdf
+    tags:
+        - houdini
+'Advanced RenderMan 2: To RI_INFINITY and Beyond SIGGRAPH 2000 Course':
+    categories:
+        - Shading
+        - Lighting & Rendering
+    format: paper
+    link: http://silviojemma.com/public/papers/lighting/infbeyond.pdf
+    tags:
+        - pixar
+        - disney
+        - spi
+Advanced Scenegraph Rendering Pipeline:
+    categories:
+        - Pipeline
+        - Lighting & Rendering
+    format: presentation
+    link: http://on-demand.gputechconf.com/gtc/2013/presentations/S3032-Advanced-Scenegraph-Rendering-Pipeline.pdf
+    tags: []
+Algorithmic Beauty Of Plants:
+    categories:
+        - Biology & Trees
+    format: book
+    link: http://algorithmicbotany.org/papers/abop/abop.pdf
+    tags: []
+An Energy-Conserving Hair Reflectance Model:
+    categories:
+        - Shading
+        - Fur & Feathers
+        - Lighting & Rendering
+    format: paper
+    link: http://www.eugenedeon.com/wp-content/uploads/2014/04/egsrhair.pdf
+    tags:
+        - weta
+An Object-Level Destruction Tool in Houdini:
+    categories:
+        - RBD
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/app?id=9902073086662988&itemId=1001586&lang=eng&service=blob&suite=de
+    tags:
+        - houdini
+        - scad
+Applying aggregation over 3D surfaces:
+    categories:
+        - FX
+        - Biology & Trees
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc09/Cashmore/MichaelCashmore-Thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+Arnold Shaders Tutorial - Solid Angle:
+    categories:
+        - Shading
+    format: paper
+    link: https://support.solidangle.com/download/attachments/7503948/ArnoldShadersTutorial.pdf?api=v2
+    tags: []
+Art Directed Ant Crowd Simulation in Houdini:
+    categories:
+        - Crowds
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc13/08/_assets/i7784427_TusharK_Thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+Art Directed Fluid Flow With Secondary Water Effects:
+    categories:
+        - Liquids
+    format: thesis
+    link: https://www.diva-portal.org/smash/get/diva2:559073/FULLTEXT01.pdf
+    tags: []
+Art directing particle flows with custom vector fields:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=1401040&dl=ACM&coll=DL
+    tags:
+        - r&h
+Art directing rigid body dynamics as a post-process:
+    categories:
+        - FX
+        - RBD
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614148&dl=ACM&coll=DL
+    tags:
+        - dwa
+"Art-directing Disney\u2019s Tangled Procedural Trees":
+    categories:
+        - Biology & Trees
+    format: paper
+    link: http://www.andyselle.com/papers/14/tree-shek.pdf
+    tags:
+        - disney
+Art-directing procedural vegetation in Houdini using a space colonization algorithm:
+    categories:
+        - Biology & Trees
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc17/01/report.pdf
+    tags:
+        - houdini
+        - bournemouth
+Authoring destruction with the Dynamica Bullet Maya plugin:
+    categories:
+        - RBD
+    format: presentation
+    link: http://bulletphysics.org/siggraph2011/michael_siggraph2011.pdf
+    tags:
+        - disney
+'AutoSpline: animation controls only when and where you need them':
+    categories:
+        - Rigging
+        - Animation
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2927439
+    tags:
+        - pixar
+Avalanche! snowy FX for XXX:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=965492
+    tags:
+        - dd
+'Avatar : Bending Rigid Bodies':
+    categories:
+        - RBD
+    format: paper
+    link: http://physbam.stanford.edu/~mlentine/images/deformingrigids.pdf
+    tags:
+        - ilm
+BUILDING AND LEVERAGING A CROSS PLATFORM VFX/ANIMATION DEVELOPMENT ENVIRONMENT:
+    categories:
+        - Pipeline
+    format: presentation
+    link: http://tdforum.eu/pdf/2012ColinDoncaster_TDForum.pdf
+    tags:
+        - tdforum
+'Background: Physics and Math of Shading':
+    categories:
+        - Shading
+        - Lighting & Rendering
+    format: paper
+    link: https://pdfs.semanticscholar.org/c4e6/f55a19fa7c108f934f201ae97eedf90cefef.pdf
+    tags: []
+Brief History of Special Effects in Film:
+    categories:
+        - History
+    format: presentation
+    link: http://people.uncw.edu/pattersone/resources/notes/DSFX_History.pdf
+    tags: []
+Building Efficient Fur Pipeline for a Low Cost Production of Creature-based Feature Film:
+    categories:
+        - Fur & Feathers
+        - Lighting & Rendering
+    format: paper
+    link: http://graphics.snu.ac.kr/publications/conference_proceedings/12_Building_Efficient_Fur_Pipeline_for_a_Low_Cost_Production_of_Creature_based_Feature_Film.pdf
+    tags: []
+CG 101 CG/VFX Production Theory:
+    categories:
+        - Production
+    format: presentation
+    link: http://www.tdforum.eu/pdf/ntdf2013_CG_101.pdf
+    tags:
+        - tdforum
+CLOUDS AND RIMS:
+    categories:
+        - Volumetrics
+        - Lighting & Rendering
+    format: presentation
+    link: http://tdforum.eu/pdf/2012KustaaVuori_cloudsAndRims.pdf
+    tags:
+        - tdforum
+Camera Space Volumetric Shadows:
+    categories:
+        - Volumetrics
+        - Lighting & Rendering
+    format: paper
+    link: https://jo.dreggn.org/home/2012_camera_space.pdf
+    tags:
+        - weta
+Can We Solve the Pipeline Problem?:
+    categories:
+        - Pipeline
+    format: paper
+    link: https://researchspace.auckland.ac.nz/bitstream/handle/2292/23903/471Cris.pdf?sequence=1
+    tags:
+        - weta
+Capture Color and Depth From All Around of A Live Set:
+    categories:
+        - Lighting & Rendering
+        - Set
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/DigitalItemViewPage.external;jsessionid=ABD0B1B0DDCA193A6F981612E6605AFE?lang=eng&sp=1002062&sp=T&sp=1&suite=def+++
+    tags:
+        - scad
+Capturing Thin Features in Smoke Simulations:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: http://library.imageworks.com/pdfs/imageworks-library-capturing-thin-features-in-smoke-simulation.pdf
+    tags:
+        - spi
+'Capturing the infinite universe in "Lucy": fractal rendering in film production':
+    categories:
+        - Lighting & Rendering
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614166
+    tags:
+        - ilm
+Character Rigging, Deformations, and Simulations in Film and Game Production:
+    categories:
+        - Rigging
+    format: paper
+    link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.474.9719&rep=rep1&type=pdf
+    tags:
+        - dwa
+Cinematic Color - Visual Effects Society:
+    categories:
+        - Colors
+    format: paper
+    link: https://www.visualeffectssociety.com/sites/default/files/files/cinematic_color_ves.pdf
+    tags: []
+Cloud Modeling and Rendering for 'Puss In Boots':
+    categories:
+        - FX
+        - Volumetrics
+        - Lighting & Rendering
+    format: paper
+    link: http://ken.museth.org/Publications_files/Miller-etal_SIG12.pdf
+    tags:
+        - dwa
+'Color Correction Handbook: Professional Techniques for Video and Cinema':
+    categories:
+        - Colors
+    format: book
+    link: https://www.amazon.com/Color-Correction-Handbook-Professional-Techniques/dp/0321713117
+    tags: []
+Combining Rigid and Fluid Motion Using Point Clouds and FLIP Fluids:
+    categories:
+        - Liquids
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/app?id=2536695579707187&itemId=1001581&lang=eng&service=blob&suite=def
+    tags:
+        - houdini
+        - scad
+Complexity, Productivity, Efficiency and Cost in Digital Production:
+    categories:
+        - Production
+    format: presentation
+    link: http://tdforum.eu/pdf/2012ComplexityProductivityAndEfficncy.pdf
+    tags:
+        - tdforum
+Computer Graphics - Principles and Practice, 3rd edition:
+    categories:
+        - CG
+    format: book
+    link: http://dept.cs.williams.edu/~morgan/cgpp/about.xml
+    tags: []
+Controlling Fluid Simulations with Custom Fields in Houdini:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc09/Claes/thesis/PeterClaesThesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+Cortex Open Source Framework:
+    categories:
+        - Pipeline
+    format: video
+    link: http://image-engine.com/randd/siggraph-2011-birds-of-a-feather-presentation/
+    tags: []
+Coupling 3D eulerian, heightfield and particle methods for interactive simulation of large scale liquid phenomena:
+    categories:
+        - FX
+        - Liquids
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2849519&dl=ACM&coll=DL
+    tags:
+        - nvidia
+        - realtime
+Course introduction and overview of destruction and dynamics techniques:
+    categories:
+        - RBD
+    format: presentation
+    link: http://bulletphysics.org/siggraph2011/erwin_intro_siggraph2011.pdf
+    tags: []
+'CrAM: artist-friendly crowds on "Edge of Tomorrow"':
+    categories:
+        - Crowds
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614204&dl=ACM&coll=DL
+    tags:
+        - spi
+Creating Abstract Motion Sculptures Through Simulation:
+    categories:
+        - Abstract
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3101&context=all_theses
+    tags:
+        - clemson
+Creating oceans using math:
+    categories:
+        - Oceans
+    format: presentation
+    link: http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO2_handout.pdf
+    tags: []
+Creating realistic CG honey:
+    categories:
+        - FX
+        - Liquids
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=1280784
+    tags:
+        - dwa
+Creating the flying armadas in Guardians of the Galaxy:
+    categories:
+        - Crowds
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614106.2614127
+    tags:
+        - mpc
+Creation of a Procedural Crack Generation Tool:
+    categories:
+        - FX
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc11/vigneshwar/Road%20Crack%20GenerationThesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+DIGITAL DOMAIN OPENVDB ADOPTION:
+    categories:
+        - Volumetrics
+    format: presentation
+    link: http://www.openvdb.org/download/openvdb_fluids_2013.pdf
+    tags:
+        - houdini
+Deep Image Compositing @ Nordic TDForum 2011:
+    categories:
+        - Deep comp
+    format: presentation
+    link: http://tdforum.eu/pdf/2011ntdf_deepcomp_colindoncaster.pdf
+    tags:
+        - tdforum
+Deep image compositing in a modern visual effects pipeline:
+    categories:
+        - Deep comp
+    format: thesis
+    link: http://patrickheinen.com/docs/DeepCompositingInVFX_PatrickHeinen_2013.pdf
+    tags: []
+Designing an interaction with an octopus:
+    categories:
+        - Rigging
+        - Animation
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2927434
+    tags:
+        - pixar
+Destruction System:
+    categories:
+        - RBD
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=1401123
+    tags:
+        - ilm
+Developing a unified pipeline with character:
+    categories:
+        - Pipeline
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2491837
+    tags: []
+Diffusion Limited Aggregation Inside 3D Models:
+    categories:
+        - FX
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc17/08/report.pdf
+    tags:
+        - houdini
+        - bournemouth
+Dive Into Python Python from novice to pro:
+    categories:
+        - Coding
+    format: book
+    link: http://www.diveintopython.net/
+    tags: []
+Effective Toon-Style Rendering Control Using Scalar Fields:
+    categories:
+        - Shading
+        - Lighting & Rendering
+    format: paper
+    link: https://graphics.pixar.com/library/ToonRendering/paper.pdf
+    tags:
+        - pixar
+Efficient and Seamless Volumetric Fracturing:
+    categories:
+        - FX
+        - Volumetrics
+    format: paper
+    link: https://research.dreamworks.com/papers/Seamless_Volumetric_Fracturing_DWA_2012.pdf
+    tags:
+        - dwa
+Elastic and Plastic Deformations with Rigid Body Dynamics:
+    categories:
+        - RBD
+    format: paper
+    link: http://www.nafees.net/siggraph/budsberg-deformable_solids.pdf
+    tags:
+        - dwa
+Empirical directional wave spectra for computer graphics:
+    categories:
+        - Oceans
+    format: paper
+    link: http://dutch360hdr.com/downloads/other/EmpiricalDirectionalWaveSpectra_DigiPro2015_Jun20_2015.pdf
+    tags: []
+Environmental FX for Multiple Productions:
+    categories:
+        - FX
+    format: thesis
+    link: https://www.cs.clemson.edu/dpa/images/hughthesis.pdf
+    tags:
+        - clemson
+Extending Houdini with HDK:
+    categories:
+        - Pipeline
+        - Coding
+    format: presentation
+    link: http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO4_handout.pdf
+    tags:
+        - houdini
+FLUID SIMULATION SIGGRAPH 2007 Course Notes:
+    categories:
+        - Volumetrics
+    format: paper
+    link: https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf
+    tags: []
+Fast Hydraulic Erosion Simulation and Visualization on GPU:
+    categories:
+        - Erosion
+    format: paper
+    link: https://hal.inria.fr/inria-00402079/document
+    tags:
+        - realtime
+Fast Hydraulic and Thermal Erosion on the GPU:
+    categories:
+        - Erosion
+    format: paper
+    link: http://old.cescg.org/CESCG-2011/papers/TUBudapest-Jako-Balazs.pdf
+    tags:
+        - realtime
+'Feathers for Mystical Creatures: Creating Pegasus for Clash of the Titans':
+    categories:
+        - Fur & Feathers
+    format: paper
+    link: http://www.moving-picture.com/UmbracoMedia/6300/feathersformysticalcreatures.pdf
+    tags:
+        - mpc
+Fido overview:
+    categories:
+        - Case studies
+        - Production
+        - History
+    format: presentation
+    link: http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture02-FL/sfx2011.pdf
+    tags: []
+Flocking system mimicking fish school behaviours:
+    categories:
+        - Crowds
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/02/thesis.pdf
+    tags:
+        - bournemouth
+Fluid simulation In a visual effects context:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: presentation
+    link: http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture03-MW/Wrenninge_2011_Fluids.pdf
+    tags: []
+'Frozen on ice: rendering frost and ice on Frozen':
+    categories:
+        - FX
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614137&dl=ACM&coll=DL
+    tags:
+        - disney
+Fully automatic ID mattes with support for motion blur and transparency:
+    categories:
+        - Lighting & Rendering
+        - Pipeline
+    format: paper
+    link: https://github.com/Psyop/Cryptomatte/raw/master/specification/IDmattes_poster.pdf
+    tags: []
+Fundamentals of Computer Graphics 3rd ed.:
+    categories:
+        - CG
+    format: book
+    link: https://www.amazon.com/Fundamentals-Computer-Graphics-Peter-Shirley/dp/1568814690
+    tags: []
+'Furtility: Dynamic Grooming for Wolfman':
+    categories:
+        - Fur & Feathers
+    format: paper
+    link: http://www.moving-picture.com/UmbracoMedia/6301/furtilitydynamicwolfman.pdf
+    tags:
+        - mpc
+'GETTING SANDY: CREATING COLLAPSING SAND EFFECTS FOR AN ODE TO LOVE':
+    categories:
+        - FX
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2898&context=all_theses
+    tags:
+        - clemson
+'Gaffer: an open-source application framework for VFX':
+    categories:
+        - Pipeline
+        - Lighting & Rendering
+    extra: '[[video]](https://vimeo.com/201047816)'
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2947696
+    tags: []
+Geometric fracture modeling in BOLT:
+    categories:
+        - FX
+    format: paper
+    link: http://pages.cs.wisc.edu/~sifakis/papers/bolt_fracture.pdf
+    tags:
+        - disney
+Geometry into Shading:
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: paper
+    link: https://graphics.pixar.com/library/BumpRoughness/paper.pdf
+    tags:
+        - pixar
+'Graduation report: Procedural environmental design':
+    categories:
+        - Environments
+    format: thesis
+    link: http://freek3d.com/downloads/Freek_Hoekstra_Graduation_final_report_Final_PRINTED.pdf
+    tags: []
+'Graphics Shaders: Theory and Practice':
+    categories:
+        - Shading
+        - Lighting & Rendering
+    format: book
+    link: http://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf
+    tags:
+        - realtime
+"HYDRA Pixar\u2019s Real-Time Render Engine for Feature Film Assets":
+    categories:
+        - Pipeline
+        - Lighting & Rendering
+    format: presentation
+    link: http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf
+    tags:
+        - pixar
+        - realtime
+High-contrast Computational Caustic Design:
+    categories:
+        - Lighting & Rendering
+    format: paper
+    link: http://lgg.epfl.ch/publications/2014/Caustics/
+    tags: []
+Highly Detailed Fluid Simulations on the GPU:
+    categories:
+        - Liquids
+    format: presentation
+    link: http://webstaff.itn.liu.se/~jonun/web/teaching/2010-TNCG13/Lectures/OceansWithMathMattias.pdf
+    tags:
+        - realtime
+"Huawei Pegasus & Free Radio \u02BBHamster\u02BC":
+    categories:
+        - Case studies
+    format: presentation
+    link: http://tdforum.eu/pdf/2012_Framestore_Iceland.pdf
+    tags:
+        - tdforum
+I Love It When A Cloud Comes Together:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: https://people.cs.clemson.edu/~jtessen/papers_files/ateamclouds.pdf
+    tags:
+        - r&h
+Implementation of Artistic Curly Hair Dynamics in Houdini:
+    categories:
+        - FX
+        - Fur & Feathers
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/10/Thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+'Implicit skinning: real-time skin deformation with contact modeling':
+    categories:
+        - Rigging
+        - Animation
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2461960
+    tags: []
+'Instant Points: Fast Rendering of Unprocessed Point Clouds':
+    categories:
+        - Lighting & Rendering
+    format: paper
+    link: http://silviojemma.com/public/papers/lighting/FastRenderingOfUnprocessedPointClouds.WIMMER-2006-IP.pdf
+    tags: []
+Integrating FEA physics in a non-linear workflow for "Edge of Tomorrow":
+    categories:
+        - FEM
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614205&dl=ACM&coll=DL
+    tags:
+        - spi
+"Interactive Lighting of Effects Using Point Clouds in \u201CBOLT\u201D":
+    categories:
+        - Lighting & Rendering
+    format: presentation
+    link: https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/68/asset/InteractiveLightingEffects_S2009.pdf
+    tags:
+        - disney
+Interactive Water Surfaces:
+    categories:
+        - Liquids
+    format: paper
+    link: https://people.cs.clemson.edu/~jtessen/papers_files/Interactive_Water_Surfaces.pdf
+    tags:
+        - realtime
+        - r&h
+'Jack''s Frost: Controllable Magic Frost Simulations for ''Rise of the Guardians''':
+    categories:
+        - FX
+    format: paper
+    link: http://ken.museth.org/Publications_files/Lipton-etal_SIG13.pdf
+    tags:
+        - houdini
+'Jam: Major Project Report Peter Claes':
+    categories:
+        - FX
+        - Liquids
+    format: thesis
+    link: '#'
+    tags:
+        - bournemouth
+        - houdini
+"Kali: High Quality FEM Destruction in Zack Snyder\u2019s Sucker Punch":
+    categories:
+        - FEM
+    format: paper
+    link: http://www.moving-picture.com/UmbracoMedia/6309/kaliehighqualityfem.pdf
+    tags:
+        - mpc
+Keyframe Control of Smoke Simulations:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: http://grail.cs.washington.edu/projects/control/smokeControl.pdf
+    tags: []
+Large Scale Simulation and Surfacing of Water and Ice Effects in Dragons 2:
+    categories:
+        - FX
+        - Liquids
+    format: paper
+    link: http://www.museth.org/Ken/Publications_files/Opstal-etal_SIG14.pdf
+    tags:
+        - dwa
+Large scale VFX pipelines:
+    categories:
+        - Pipeline
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2947689
+    tags:
+        - weta
+Learning Modern 3D Graphics Programming:
+    categories:
+        - CG
+        - Lighting & Rendering
+    format: book
+    link: https://paroj.github.io/gltut/
+    tags:
+        - realtime
+Learning OpenCV:
+    categories:
+        - Coding
+    format: book
+    link: https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134
+    tags: []
+'Levelsets in Production: Spider-Man 3':
+    categories:
+        - FX
+    format: paper
+    link: http://library.imageworks.com/pdfs/imageworks-library-levelsets-in-production-spider-man3.pdf
+    tags:
+        - spi
+MANIFOLD NEXT EVENT ESTIMATION:
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: presentation
+    link: https://jo.dreggn.org/home/2015_mnee_talk.pdf
+    tags:
+        - weta
+'MARCHING CUBES: A HIGH RESOLUTION 3D SURFACE CONSTRUCTION ALGORITHM':
+    categories:
+        - Volumetrics
+    format: paper
+    link: http://academy.cba.mit.edu/classes/scanning_printing/MarchingCubes.pdf
+    tags: []
+Managing thousands of assets for the Prince of Persia city of Alamut:
+    categories:
+        - Pipeline
+    format: paper
+    link: http://www.moving-picture.com/UmbracoMedia/6302/managingthousandofassetsprincepersia.pdf
+    tags:
+        - mpc
+'Manifold Exploration: A Markov Chain Monte Carlo Technique for Rendering Scenes with Difficult Specular Transport':
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: paper
+    link: http://www.cs.cornell.edu/projects/manifolds-sg12/manifolds-sg12.pdf
+    tags: []
+Mathematics for 3D Game Programming and Computer Graphics:
+    categories:
+        - Maths
+        - CG
+    format: book
+    link: https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869
+    tags:
+        - realtime
+Mathematics for Computer Graphics (Undergraduate Topics in Computer Science):
+    categories:
+        - Maths
+        - CG
+    format: book
+    link: https://www.amazon.com/Mathematics-Computer-Graphics-Undergraduate-Science/dp/1447173341
+    tags: []
+Measuring and Modeling the Appearance of Finished Wood:
+    categories:
+        - Shading
+        - Lighting & Rendering
+    format: paper
+    link: http://silviojemma.com/public/papers/lighting/sg05-shadingWood-lr.pdf
+    tags: []
+'MoSh: Motion and Shape Capture from Sparse Markers':
+    categories:
+        - Animation
+        - Rigging
+    format: paper
+    link: http://files.is.tue.mpg.de/black/papers/MoSh.pdf
+    tags: []
+Modeling Trees with a Space Colonization Algorithm:
+    categories:
+        - Biology & Trees
+    format: paper
+    link: http://algorithmicbotany.org/papers/colonization.egwnp2007.large.pdf
+    tags: []
+Modeling and Animating Gases with Simulation Features:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: https://engineering.purdue.edu/~ebertd/papers/Schpok_SCA_2005.pdf
+    tags: []
+Modeling and visualization of leaf venation patterns:
+    categories:
+        - Biology & Trees
+    format: paper
+    link: http://algorithmicbotany.org/papers/venation.sig2005.pdf
+    tags: []
+Multiple-Scattering Microfacet BSDFs with the Smith Model:
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: paper
+    link: https://jo.dreggn.org/home/2015_microfacets.pdf
+    tags: []
+Narrow Band FLIP for Liquid Simulations:
+    categories:
+        - FX
+        - Liquids
+        - Volumetrics
+    format: paper
+    link: https://wwwcg.in.tum.de/fileadmin/user_upload/Lehrstuehle/Lehrstuhl_XV/Research/Publications/2016/NBFlip/nbflip.pdf
+    tags: []
+OpenColorIO Open Source Color Pipeline:
+    categories:
+        - Colors
+    format: presentation
+    link: http://www.tdforum.eu/pdf/2011ntfd_ocio_selan.pdf
+    tags:
+        - tdforum
+OpenColorIO and its usage with The Academy Color Encoding Specification (ACES) in a modern visual effects pipeline:
+    categories:
+        - Colors
+    format: thesis
+    link: https://www.hdm-stuttgart.de/vfx/alumni/bamathesis/pdf_016/
+    tags: []
+OpenGL GPU Features and SPH Fluid:
+    categories:
+        - FX
+        - Liquids
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/13/thesis.pdf
+    tags:
+        - realtime
+        - bournemouth
+OpenVDB at DWA:
+    categories:
+        - Volumetrics
+    format: presentation
+    link: http://www.openvdb.org/download/openvdb_production_2015.pdf
+    tags:
+        - houdini
+OpenVDB in Houdini:
+    categories:
+        - Volumetrics
+    format: presentation
+    link: http://www.openvdb.org/download/openvdb_houdini_2015.pdf
+    tags:
+        - houdini
+OpenVDB toolset:
+    categories:
+        - Volumetrics
+    format: presentation
+    link: http://www.openvdb.org/download/openvdb_toolset_2013.pdf
+    tags:
+        - houdini
+Outsourcing And Its Pipes:
+    categories:
+        - Production
+    format: presentation
+    link: http://www.tdforum.eu/pdf/2012OutsourcingAndItsPipes.pdf
+    tags:
+        - tdforum
+PROCEDURAL GENERATION AND RENDERING OF TREES AND LANDSCAPES IN THE STYLE OF EYVIND EARLE:
+    categories:
+        - Biology & Trees
+        - Lighting & Rendering
+        - Environments
+    format: thesis
+    link: http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/155331/MURPHY-THESIS-2015.pdf?sequence=1&isAllowed=y
+    tags: []
+Packing the water pipe:
+    categories:
+        - Liquids
+        - Pipeline
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614106.2614203
+    tags:
+        - dneg
+Parallel Processing within a Host Application:
+    categories:
+        - Pipeline
+        - Lighting & Rendering
+        - Rigging
+    format: presentation
+    link: http://www.multithreadingandvfx.org/course_notes/2017/disney_MultiThreading_SIGGRAPH2017.pdf
+    tags:
+        - disney
+        - realtime
+Particle Expansion Tool:
+    categories:
+        - FX
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/app?id=3306447068130864&itemId=1002089&lang=eng&service=blob&suite=de
+    tags:
+        - houdini
+        - scad
+Physical Simulation of Fire and Smoke Masters Thesis:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: thesis
+    link: https://nccastaff.bmth.ac.uk/jmacey/MastersProjects/MSc07/DavidMinor/MSc%20Thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+Physically Based Rendering FROM THEORY TO IMPLEMENTATION:
+    categories:
+        - CG
+        - Lighting & Rendering
+    format: book
+    link: http://www.pbrt.org/
+    tags: []
+Point-Based Approximate Color Bleeding:
+    categories:
+        - Lighting & Rendering
+    format: paper
+    link: https://graphics.pixar.com/library/PointBasedColorBleeding/paper.pdf
+    tags:
+        - pixar
+Point-Based Color Bleeding:
+    categories:
+        - Lighting & Rendering
+    format: presentation
+    link: https://graphics.pixar.com/library/PointBasedColorBleeding/SlidesFromAnnecy09.pdf
+    tags:
+        - pixar
+Point-Based Global Illumination for Movie Production:
+    categories:
+        - Lighting & Rendering
+        - Lighting & Rendering
+    format: paper
+    link: https://graphics.pixar.com/library/PointBasedGlobalIlluminationForMovieProduction/paper.pdf
+    tags:
+        - pixar
+Position Based Dynamics for Character Effects:
+    categories:
+        - PBD
+        - CFX
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/12/thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+Position Based Fluid:
+    categories:
+        - FX
+        - Liquids
+        - PBD
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/09/mpthesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+Procedural City Generation and Techniques for Game Designers:
+    categories:
+        - Cities
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/app?id=7920016702909652&itemId=1002643&lang=eng&service=blob&suite=def+++
+    tags:
+        - houdini
+        - scad
+Procedural Generation of Rock Piles using Aperiodic Tiling:
+    categories:
+        - Misc.
+    format: paper
+    link: https://pdfs.semanticscholar.org/1c1a/1da6faa24826ac76a5e1f0edc6e1a401faa3.pdf
+    tags: []
+Procedural Methods For Large Scale Destruction:
+    categories:
+        - RBD
+    format: presentation
+    link: http://bulletphysics.org/siggraph2011/nafees_siggraph2011.pdf
+    tags:
+        - dwa
+        - dd
+Procedural wrinkles generation in the implicit skinning framework:
+    categories:
+        - Shading
+        - Rigging
+        - Animation
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2820937
+    tags:
+        - mpc
+        - bournemouth
+Production Volume Rendering Fundamentals SIGGRAPH 2011 Course Notes:
+    categories:
+        - Volumetrics
+    format: paper
+    link: http://magnuswrenninge.com/content/pubs/ProductionVolumeRenderingFundamentals2011.pdf
+    tags:
+        - spi
+        - dwa
+Production Volume Rendering SIGGRAPH 2017 Course:
+    categories:
+        - Volumetrics
+    format: paper
+    link: https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf
+    tags:
+        - pixar
+        - spi
+        - disney
+Production Volume Rendering Systems SIGGRAPH 2011 Course Notes:
+    categories:
+        - Volumetrics
+    format: paper
+    link: http://magnuswrenninge.com/content/pubs/ProductionVolumeRenderingSystems2011.pdf
+    tags:
+        - houdini
+        - spi
+        - dwa
+        - clemson
+        - dneg
+        - r&h
+        - weta
+'Production Volume Rendering: Design and Implementation':
+    categories:
+        - Volumetrics
+        - Lighting & Rendering
+    format: book
+    link: https://www.amazon.com/Production-Rendering-Implementation-Magnus-Wrenninge/dp/156881724X
+    tags: []
+Programming Computer Vision with Python:
+    categories:
+        - Coding
+    format: book
+    link: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
+    tags: []
+Rat-Sized Water Effects in Ratatouille:
+    categories:
+        - Liquids
+    format: paper
+    link: https://graphics.pixar.com/library/RatSizedWater/paper.pdf
+    tags:
+        - pixar
+Real-Time Fluid Dynamics for Games:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: https://pdfs.semanticscholar.org/847f/819a4ea14bd789aca8bc88e85e906cfc657c.pdf
+    tags:
+        - realtime
+Real-Time Volumetric Cloudscapes of Horizon Zero Dawn:
+    categories:
+        - Volumetrics
+        - Shading
+        - Lighting & Rendering
+        - FX
+        - Fluids
+    format: presentation
+    link: http://killzone.dl.playstation.net/killzone/horizonzerodawn/presentations/Siggraph15_Schneider_Real-Time_Volumetric_Cloudscapes_of_Horizon_Zero_Dawn.pdf
+    tags:
+        - realtime
+'Real-World Measurements for Call of Duty: Advanced Warfare':
+    categories:
+        - Lighting & Rendering
+        - Set
+    format: paper
+    link: https://www.activision.com/cdn/research/Real_World_Measurements_for_Call_of_Duty_Advanced_Warfare.pdf
+    tags:
+        - realtime
+Real-time Simulation and Rendering of Large-scale Crowd Motion:
+    categories:
+        - Crowds
+    format: thesis
+    link: https://ir.canterbury.ac.nz/xmlui/bitstream/handle/10092/7870/thesis_fulltext.pdf?sequence=1&isAllowed=y
+    tags:
+        - realtime
+Realistic, Hardware-accelerated Shading and Lighting:
+    categories:
+        - Shading
+        - Lighting & Rendering
+    format: paper
+    link: http://silviojemma.com/public/papers/lighting/ShadingLighting.Siggraph.99.pdf
+    tags: []
+Realtime Procedural Terrain Generation:
+    categories:
+        - Erosion
+    format: paper
+    link: http://web.mit.edu/cesium/Public/terrain.pdf
+    tags:
+        - realtime
+Renderman Point Based Effects Lighting Approach:
+    categories:
+        - Lighting & Rendering
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/app?id=7255011066541100&itemId=1001416&lang=...&service=blob&suite=def
+    tags:
+        - houdini
+        - scad
+Rigging Octopuses in Penguins of Madagascar:
+    categories:
+        - Rigging
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2791274&dl=ACM&coll=DL
+    tags:
+        - dwa
+SCALABLE, CONTROLLABLE, EFFICIENT AND CONVINCING CROWD SIMULATION:
+    categories:
+        - Crowds
+    format: thesis
+    link: http://research.cs.wisc.edu/graphics/Gallery/mksung.vol/FinalDefense/Thesis/thesis.pdf
+    tags: []
+SFX - Tricks of the Trade 2009:
+    categories:
+        - Production
+    format: presentation
+    link: http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO1_v2_handout.pdf
+    tags: []
+"SFX \u2013 Tricks of the Trade The Beginning 1895-2006":
+    categories:
+        - History
+    format: paper
+    link: http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture02-FL/fo1_Extended_history.pdf
+    tags: []
+SIMULATION OF THE MIXING OF INK AND WATER IN HOUDINI:
+    categories:
+        - FX
+        - Liquids
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1937&context=all_theses
+    tags:
+        - houdini
+        - clemson
+SPH Fluid simulation:
+    categories:
+        - Liquids
+    format: presentation
+    link: http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sph_slides.pdf
+    tags: []
+Screen Space Fluid Rendering for Games:
+    categories:
+        - Liquids
+        - FX
+        - Shading
+        - Lighting & Rendering
+    format: paper
+    link: http://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf
+    tags:
+        - nvidia
+        - realtime
+Seminar on Stereoscopic Production for Computer Animation:
+    categories:
+        - Stereo
+    format: presentation
+    link: http://tdforum.eu/pdf/principlesofstereoscopicproduction.pdf
+    tags:
+        - tdforum
+Separable Subsurface Scattering:
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: paper
+    link: http://www.iryoku.com/separable-sss/
+    tags: []
+Shaping particle simulations with interaction forces:
+    categories:
+        - FX
+        - Liquids
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614121
+    tags:
+        - dwa
+Simulating Whitewater Rapids in Ratatouille:
+    categories:
+        - Liquids
+    format: paper
+    link: https://graphics.pixar.com/library/Whitewater/paper.pdf
+    tags:
+        - pixar
+Simulation of Morphology Changes in Drying Leaves:
+    categories:
+        - Biology & Trees
+    format: paper
+    link: https://pdfs.semanticscholar.org/bdb0/d459310e04d7167130289e1a80f588d8f111.pdf
+    tags: []
+Simulation, Animation and Rendering of Crowds in Real-Time:
+    categories:
+        - Crowds
+    format: thesis
+    link: https://diglib.eg.org/bitstream/handle/10.2312/14394/beacco.pdf?sequence=1&isAllowed=y
+    tags:
+        - realtime
+Sketch to pose in Pixar's presto animation system:
+    categories:
+        - Animation
+        - Rigging
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2792583
+    tags:
+        - pixar
+Skin Microstructure Deformation with Displacement Map Convolution:
+    categories:
+        - Shading
+    format: paper
+    link: http://gl.ict.usc.edu/Research/SkinStretch/
+    tags: []
+'Sky Browser: Search for HDR Sky Maps':
+    categories:
+        - Lighting & Rendering
+    format: paper
+    link: http://computergraphics.ac.nz/assets/research/SkyBrowser.pdf
+    tags:
+        - weta
+Smooth Skinning Decomposition with Rigid Bones:
+    categories:
+        - Animation
+        - Rigging
+        - FX
+    format: paper
+    link: http://graphics.cs.uh.edu/wp-content/papers/2012/2012_SA_SSDR_preprint.pdf
+    tags:
+        - realtime
+'Spherical Harmonic Lighting: The Gritty Details':
+    categories:
+        - Lighting & Rendering
+    format: paper
+    link: http://silviojemma.com/public/papers/lighting/spherical-harmonic-lighting.pdf
+    tags: []
+Stadium Crowd Tool in Houdini with Key-Frameable Motion Controls:
+    categories:
+        - Crowds
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/app?id=9096245370527043&itemId=1002049&lang=eng&service=blob&suite=de
+    tags:
+        - houdini
+        - scad
+Stupid Spherical Harmonics (SH) Tricks:
+    categories:
+        - Lighting & Rendering
+    format: paper
+    link: http://silviojemma.com/public/papers/lighting/StupidSphericalHarmonics36.pdf
+    tags: []
+Supercharge Houdini with Python:
+    categories:
+        - Pipeline
+        - Coding
+    format: presentation
+    link: http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO3_handout.pdf
+    tags:
+        - houdini
+THE EXPLOSION EFFECT- A Custom Volume FX Production Pipeline:
+    categories:
+        - FX
+        - Volumetrics
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2435&context=all_theses
+    tags:
+        - houdini
+        - clemson
+'Tangled Choreographing Destruction: Art Directing a Dam Break':
+    categories:
+        - Liquids
+    format: paper
+    link: http://www.andyselle.com/papers/16/tangled-water.pdf
+    tags:
+        - disney
+Target-Driven Smoke Animation:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+    format: paper
+    link: http://www.cs.huji.ac.il/labs/cglab/projects/tdsmoke/tdsmoke.pdf
+    tags: []
+Technical Art of Uncharted 4:
+    categories:
+        - Lighting & Rendering
+    format: presentation
+    link: http://advances.realtimerendering.com/other/2016/naughty_dog/NaughtyDog_TechArt_Final.pdf
+    tags:
+        - realtime
+'Texturing and Modeling, Third Edition: A Procedural Approach':
+    categories:
+        - Shading
+        - CG
+    format: book
+    link: https://www.amazon.com/Texturing-Modeling-Third-Procedural-Approach/dp/1558608486
+    tags: []
+The Art and Technique of Digital Color Correction:
+    categories:
+        - Colors
+    format: book
+    link: https://www.amazon.com/Art-Technique-Digital-Color-Correction/dp/024081715X
+    tags: []
+"The Implementation of 2D Fluid Solver plug\xADin for Houdini8.0":
+    categories:
+        - Fluids
+        - Volumetrics
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc07/MyaWin/mwin_thesis.pdf
+    tags:
+        - houdini
+        - bournemouth
+'The Jungle Book: art-directing procedural scatters in rich environments':
+    categories:
+        - Environments
+        - Biology & Trees
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2947692&dl=ACM&coll=DL
+    tags:
+        - mpc
+'The LEGO movie: bricks, bricks and more bricks':
+    categories:
+        - Case studies
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614179&dl=ACM&coll=DL
+    tags: []
+The Path to Path-Traced Movies:
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: paper
+    link: https://graphics.pixar.com/library/PathTracedMovies/paper.pdf
+    tags:
+        - pixar
+'The Rusterizer: An Art-Directable and Semi-Procedural Tool for Generating Rust Surfaces':
+    categories:
+        - Shading
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2979&context=all_theses
+    tags:
+        - clemson
+The path tracing revolution in the movie industry:
+    categories:
+        - Lighting & Rendering
+        - Shading
+    format: presentation
+    link: https://sites.google.com/site/pathtracingrevolution/
+    tags:
+        - nvidia
+        - weta
+        - pixar
+        - disney
+Total Moving Face Reconstruction:
+    categories:
+        - Misc.
+        - Rigging
+        - Animation
+    format: paper
+    link: http://grail.cs.washington.edu/projects/totalmoving/
+    tags: []
+'Transformers 2 : Breaking Buildings':
+    categories:
+        - RBD
+    format: paper
+    link: '#'
+    tags:
+        - ilm
+USD-Based Pipeline (2016):
+    categories:
+        - Pipeline
+    format: video
+    link: https://vimeo.com/188191100
+    tags: []
+Universal Scene Description:
+    categories:
+        - Pipeline
+    format: presentation
+    link: https://graphics.pixar.com/usd/files/USD_2013_07_pdf.pdf
+    tags:
+        - pixar
+Unreal Engine 4 Game Development Essentials:
+    categories:
+        - Unreal Engine
+    format: book
+    link: https://www.packtpub.com/game-development/unreal-engine-essentials
+    tags:
+        - realtime
+Unreal Engine 4-Beginners Crash Course v1:
+    categories:
+        - Unreal Engine
+    format: book
+    link: http://www.worldofleveldesign.com/store/free-guides/ue4-beginners-crash-course-guide.php
+    tags:
+        - realtime
+Unreal Engine Game Development Blueprints:
+    categories:
+        - Unreal Engine
+    format: book
+    link: https://www.packtpub.com/game-development/unreal-engine-game-development-blueprints
+    tags:
+        - realtime
+Using Visual Effects as a Creative Tool for Contemporary Art:
+    categories:
+        - Abstract
+    format: thesis
+    link: http://ecollections.scad.edu/iii/cpro/DigitalItemViewPage.external?lang=eng&sp=1003067&sp=T&sp=Pall%2CRk1000005%40%2CQziye+liu&suite=def
+    tags:
+        - houdini
+        - scad
+Using raycasting in GPU shaders to enhance real-time graphics:
+    categories:
+        - Shading
+        - Lighting & Rendering
+    format: thesis
+    link: http://www.proun-game.com/Oogst3D/ARTICLES/Using%20raycasting%20in%20GPU%20shaders%20to%20enhance%20real-time%20graphics.pdf
+    tags:
+        - realtime
+Visualizing Astronomical Data in Houdini:
+    categories:
+        - Lighting & Rendering
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc17/07/report.pdf
+    tags:
+        - houdini
+        - bournemouth
+Volume Rendering for Visual Effects:
+    categories:
+        - FX
+        - Fluids
+        - Volumetrics
+        - Lighting & Rendering
+    format: presentation
+    link: http://webstaff.itn.liu.se/~jonun/web/teaching/2011-TNCG13/Lectures/Lecture03-MW/Wrenninge_2011_Volume_Rendering.pdf
+    tags: []
+'Volumetric Cloud Rendering: An Animation of Clouds':
+    categories:
+        - Volumetrics
+    format: thesis
+    link: https://tigerprints.clemson.edu/cgi/viewcontent.cgi?referer=https://www.google.de/&httpsredir=1&article=2926&context=all_theses
+    tags:
+        - clemson
+Volumetric Methods for Simulation and Rendering of Hair:
+    categories:
+        - Fur & Feathers
+        - Volumetrics
+        - Lighting & Rendering
+    format: paper
+    link: https://graphics.pixar.com/library/Hair/paper.pdf
+    tags:
+        - pixar
+Volumetric Methods in Visual Effects SIGGRAPH 2010 Course Notes:
+    categories:
+        - Volumetrics
+    format: paper
+    link: http://magnuswrenninge.com/content/pubs/VolumetricMethodsInVisualEffects2010.pdf
+    tags:
+        - houdini
+        - spi
+        - dwa
+        - dneg
+        - r&h
+Volumetric dense mesh deformation in the Tengu Monk fight:
+    categories:
+        - Volumetrics
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2614185&dl=ACM&coll=DL
+    tags: []
+Vortex of Awesomeness:
+    categories:
+        - FX
+        - Volumetrics
+    format: paper
+    link: http://research.dreamworks.com/papers/PussInBoots_Tornado_DWA_2012.pdf
+    tags:
+        - dwa
+Walking Penguins Crowd Simulation:
+    categories:
+        - Crowds
+    format: thesis
+    link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc14/10/report/MSc%20Thesis.pdf
+    tags:
+        - bournemouth
+Warping the space around an animated object:
+    categories:
+        - Animation
+    format: paper
+    link: http://www.moving-picture.com/UmbracoMedia/6315/warpingthespacearoundanimated-object.pdf
+    tags:
+        - mpc
+'Wrath of the Titans: complex models with voxel greeble':
+    categories:
+        - FX
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2343106&dl=ACM&coll=DL
+    tags:
+        - method
+'Wrath of the Titans: creating CG lava with advected sculpts':
+    categories:
+        - FX
+        - Liquids
+    format: paper
+    link: https://dl.acm.org/citation.cfm?id=2343107&dl=ACM&coll=DL
+    tags:
+        - method

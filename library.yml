@@ -98,10 +98,10 @@ A Technique for Art Direction of Physically Based Fire Simulation:
 A VFX ocean toolkit with real time preview:
     categories:
         - Oceans
+        - Realtime
     format: thesis
     link: http://www.diva-portal.org/smash/get/diva2:272268/FULLTEXT02
-    tags:
-        - realtime
+    tags: []
 A position-based dynamics system for animated character effects:
     categories:
         - PBD
@@ -140,22 +140,22 @@ ART DIRECTABLE TORNADOES:
     link: http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/ETD-TAMU-2011-05-9417/DWIVEDI-THESIS.pdf?sequence=2
     tags:
         - houdini
-"Accelerating Rigid Body Simulationon Today\u2019s GPUs":
+Accelerating Rigid Body Simulationon Today's GPUs:
     categories:
         - RBD
+        - Realtime
     format: presentation
     link: http://bulletphysics.org/siggraph2011/takahiro_siggraph2011.pdf
-    tags:
-        - realtime
+    tags: []
 Achieving Real-Time Playback with Production Rigs:
     categories:
         - Rigging
         - Animation
+        - Realtime
     format: paper
     link: https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/161/asset/realTime.pdf
     tags:
         - disney
-        - realtime
 Adaptive Nonlinearity for Collisions in Complex Rod Assemblies:
     categories:
         - Fur & Feathers
@@ -271,7 +271,7 @@ Art directing rigid body dynamics as a post-process:
     link: https://dl.acm.org/citation.cfm?id=2614148&dl=ACM&coll=DL
     tags:
         - dwa
-"Art-directing Disney\u2019s Tangled Procedural Trees":
+"Art-directing Disney's Tangled Procedural Trees":
     categories:
         - Biology & Trees
     format: paper
@@ -467,11 +467,11 @@ Coupling 3D eulerian, heightfield and particle methods for interactive simulatio
     categories:
         - FX
         - Liquids
+        - Realtime
     format: paper
     link: https://dl.acm.org/citation.cfm?id=2849519&dl=ACM&coll=DL
     tags:
         - nvidia
-        - realtime
 Course introduction and overview of destruction and dynamics techniques:
     categories:
         - RBD
@@ -629,17 +629,17 @@ FLUID SIMULATION SIGGRAPH 2007 Course Notes:
 Fast Hydraulic Erosion Simulation and Visualization on GPU:
     categories:
         - Erosion
+        - Realtime
     format: paper
     link: https://hal.inria.fr/inria-00402079/document
-    tags:
-        - realtime
+    tags: []
 Fast Hydraulic and Thermal Erosion on the GPU:
     categories:
         - Erosion
+        - Realtime
     format: paper
     link: http://old.cescg.org/CESCG-2011/papers/TUBudapest-Jako-Balazs.pdf
-    tags:
-        - realtime
+    tags: []
 'Feathers for Mystical Creatures: Creating Pegasus for Clash of the Titans':
     categories:
         - Fur & Feathers
@@ -737,19 +737,19 @@ Geometry into Shading:
     categories:
         - Shading
         - Lighting & Rendering
+        - Realtime
     format: book
     link: http://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf
-    tags:
-        - realtime
-"HYDRA Pixar\u2019s Real-Time Render Engine for Feature Film Assets":
+    tags: []
+"HYDRA Pixar's Real-Time Render Engine for Feature Film Assets":
     categories:
         - Pipeline
         - Lighting & Rendering
+        - Realtime
     format: presentation
     link: http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf
     tags:
         - pixar
-        - realtime
 High-contrast Computational Caustic Design:
     categories:
         - Lighting & Rendering
@@ -759,11 +759,11 @@ High-contrast Computational Caustic Design:
 Highly Detailed Fluid Simulations on the GPU:
     categories:
         - Liquids
+        - Realtime
     format: presentation
     link: http://webstaff.itn.liu.se/~jonun/web/teaching/2010-TNCG13/Lectures/OceansWithMathMattias.pdf
-    tags:
-        - realtime
-"Huawei Pegasus & Free Radio \u02BBHamster\u02BC":
+    tags: []
+"Huawei Pegasus & Free Radio 'Hamster'":
     categories:
         - Case studies
     format: presentation
@@ -808,7 +808,7 @@ Integrating FEA physics in a non-linear workflow for "Edge of Tomorrow":
     link: https://dl.acm.org/citation.cfm?id=2614205&dl=ACM&coll=DL
     tags:
         - spi
-"Interactive Lighting of Effects Using Point Clouds in \u201CBOLT\u201D":
+'Interactive Lighting of Effects Using Point Clouds in "BOLT"':
     categories:
         - Lighting & Rendering
     format: presentation
@@ -818,10 +818,10 @@ Integrating FEA physics in a non-linear workflow for "Edge of Tomorrow":
 Interactive Water Surfaces:
     categories:
         - Liquids
+        - Realtime
     format: paper
     link: https://people.cs.clemson.edu/~jtessen/papers_files/Interactive_Water_Surfaces.pdf
     tags:
-        - realtime
         - r&h
 'Jack''s Frost: Controllable Magic Frost Simulations for ''Rise of the Guardians''':
     categories:
@@ -839,7 +839,7 @@ Interactive Water Surfaces:
     tags:
         - bournemouth
         - houdini
-"Kali: High Quality FEM Destruction in Zack Snyder\u2019s Sucker Punch":
+"Kali: High Quality FEM Destruction in Zack Snyder's Sucker Punch":
     categories:
         - FEM
     format: paper
@@ -873,10 +873,10 @@ Learning Modern 3D Graphics Programming:
     categories:
         - CG
         - Lighting & Rendering
+        - Realtime
     format: book
     link: https://paroj.github.io/gltut/
-    tags:
-        - realtime
+    tags: []
 Learning OpenCV:
     categories:
         - Coding
@@ -922,10 +922,10 @@ Mathematics for 3D Game Programming and Computer Graphics:
     categories:
         - Maths
         - CG
+        - Realtime
     format: book
     link: https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869
-    tags:
-        - realtime
+    tags: []
 Mathematics for Computer Graphics (Undergraduate Topics in Computer Science):
     categories:
         - Maths
@@ -999,10 +999,10 @@ OpenGL GPU Features and SPH Fluid:
     categories:
         - FX
         - Liquids
+        - Realtime
     format: thesis
     link: https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/13/thesis.pdf
     tags:
-        - realtime
         - bournemouth
 OpenVDB at DWA:
     categories:
@@ -1053,11 +1053,11 @@ Parallel Processing within a Host Application:
         - Pipeline
         - Lighting & Rendering
         - Rigging
+        - Realtime
     format: presentation
     link: http://www.multithreadingandvfx.org/course_notes/2017/disney_MultiThreading_SIGGRAPH2017.pdf
     tags:
         - disney
-        - realtime
 Particle Expansion Tool:
     categories:
         - FX
@@ -1211,10 +1211,10 @@ Real-Time Fluid Dynamics for Games:
         - FX
         - Fluids
         - Volumetrics
+        - Realtime
     format: paper
     link: https://pdfs.semanticscholar.org/847f/819a4ea14bd789aca8bc88e85e906cfc657c.pdf
-    tags:
-        - realtime
+    tags: []
 Real-Time Volumetric Cloudscapes of Horizon Zero Dawn:
     categories:
         - Volumetrics
@@ -1222,25 +1222,25 @@ Real-Time Volumetric Cloudscapes of Horizon Zero Dawn:
         - Lighting & Rendering
         - FX
         - Fluids
+        - Realtime
     format: presentation
     link: http://killzone.dl.playstation.net/killzone/horizonzerodawn/presentations/Siggraph15_Schneider_Real-Time_Volumetric_Cloudscapes_of_Horizon_Zero_Dawn.pdf
-    tags:
-        - realtime
+    tags: []
 'Real-World Measurements for Call of Duty: Advanced Warfare':
     categories:
         - Lighting & Rendering
         - Set
+        - Realtime
     format: paper
     link: https://www.activision.com/cdn/research/Real_World_Measurements_for_Call_of_Duty_Advanced_Warfare.pdf
-    tags:
-        - realtime
+    tags: []
 Real-time Simulation and Rendering of Large-scale Crowd Motion:
     categories:
         - Crowds
+        - Realtime
     format: thesis
     link: https://ir.canterbury.ac.nz/xmlui/bitstream/handle/10092/7870/thesis_fulltext.pdf?sequence=1&isAllowed=y
-    tags:
-        - realtime
+    tags: []
 Realistic, Hardware-accelerated Shading and Lighting:
     categories:
         - Shading
@@ -1251,10 +1251,10 @@ Realistic, Hardware-accelerated Shading and Lighting:
 Realtime Procedural Terrain Generation:
     categories:
         - Erosion
+        - Realtime
     format: paper
     link: http://web.mit.edu/cesium/Public/terrain.pdf
-    tags:
-        - realtime
+    tags: []
 Renderman Point Based Effects Lighting Approach:
     categories:
         - Lighting & Rendering
@@ -1282,7 +1282,7 @@ SFX - Tricks of the Trade 2009:
     format: presentation
     link: http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO1_v2_handout.pdf
     tags: []
-"SFX \u2013 Tricks of the Trade The Beginning 1895-2006":
+"SFX - Tricks of the Trade The Beginning 1895-2006":
     categories:
         - History
     format: paper
@@ -1309,11 +1309,11 @@ Screen Space Fluid Rendering for Games:
         - FX
         - Shading
         - Lighting & Rendering
+        - Realtime
     format: paper
     link: http://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf
     tags:
         - nvidia
-        - realtime
 Seminar on Stereoscopic Production for Computer Animation:
     categories:
         - Stereo
@@ -1352,10 +1352,10 @@ Simulation of Morphology Changes in Drying Leaves:
 Simulation, Animation and Rendering of Crowds in Real-Time:
     categories:
         - Crowds
+        - Realtime
     format: thesis
     link: https://diglib.eg.org/bitstream/handle/10.2312/14394/beacco.pdf?sequence=1&isAllowed=y
-    tags:
-        - realtime
+    tags: []
 Sketch to pose in Pixar's presto animation system:
     categories:
         - Animation
@@ -1382,10 +1382,10 @@ Smooth Skinning Decomposition with Rigid Bones:
         - Animation
         - Rigging
         - FX
+        - Realtime
     format: paper
     link: http://graphics.cs.uh.edu/wp-content/papers/2012/2012_SA_SSDR_preprint.pdf
-    tags:
-        - realtime
+    tags: []
 'Spherical Harmonic Lighting: The Gritty Details':
     categories:
         - Lighting & Rendering
@@ -1441,10 +1441,10 @@ Target-Driven Smoke Animation:
 Technical Art of Uncharted 4:
     categories:
         - Lighting & Rendering
+        - Realtime
     format: presentation
     link: http://advances.realtimerendering.com/other/2016/naughty_dog/NaughtyDog_TechArt_Final.pdf
-    tags:
-        - realtime
+    tags: []
 'Texturing and Modeling, Third Edition: A Procedural Approach':
     categories:
         - Shading
@@ -1458,7 +1458,7 @@ The Art and Technique of Digital Color Correction:
     format: book
     link: https://www.amazon.com/Art-Technique-Digital-Color-Correction/dp/024081715X
     tags: []
-"The Implementation of 2D Fluid Solver plug\xADin for Houdini8.0":
+The Implementation of 2D Fluid Solver plugin for Houdini8.0:
     categories:
         - Fluids
         - Volumetrics
@@ -1515,7 +1515,7 @@ Total Moving Face Reconstruction:
     format: paper
     link: http://grail.cs.washington.edu/projects/totalmoving/
     tags: []
-'Transformers 2 : Breaking Buildings':
+'Transformers 2: Breaking Buildings':
     categories:
         - RBD
     format: paper
@@ -1538,24 +1538,24 @@ Universal Scene Description:
 Unreal Engine 4 Game Development Essentials:
     categories:
         - Unreal Engine
+        - Realtime
     format: book
     link: https://www.packtpub.com/game-development/unreal-engine-essentials
-    tags:
-        - realtime
+    tags: []
 Unreal Engine 4-Beginners Crash Course v1:
     categories:
         - Unreal Engine
+        - Realtime
     format: book
     link: http://www.worldofleveldesign.com/store/free-guides/ue4-beginners-crash-course-guide.php
-    tags:
-        - realtime
+    tags: []
 Unreal Engine Game Development Blueprints:
     categories:
         - Unreal Engine
+        - Realtime
     format: book
     link: https://www.packtpub.com/game-development/unreal-engine-game-development-blueprints
-    tags:
-        - realtime
+    tags: []
 Using Visual Effects as a Creative Tool for Contemporary Art:
     categories:
         - Abstract
@@ -1568,10 +1568,10 @@ Using raycasting in GPU shaders to enhance real-time graphics:
     categories:
         - Shading
         - Lighting & Rendering
+        - Realtime
     format: thesis
     link: http://www.proun-game.com/Oogst3D/ARTICLES/Using%20raycasting%20in%20GPU%20shaders%20to%20enhance%20real-time%20graphics.pdf
-    tags:
-        - realtime
+    tags: []
 Visualizing Astronomical Data in Houdini:
     categories:
         - Lighting & Rendering
@@ -1659,3 +1659,13 @@ Warping the space around an animated object:
     link: https://dl.acm.org/citation.cfm?id=2343107&dl=ACM&coll=DL
     tags:
         - method
+Rendering Worlds with Two Triangles with raytracing on the GPU:
+    categories:
+        - Case studies
+        - Coding
+        - Lighting & Rendering
+        - Shading
+        - Realtime
+    format: presentation
+    link: http://www.iquilezles.org/www/material/nvscene2008/rwwtt.pdf
+    tags: []

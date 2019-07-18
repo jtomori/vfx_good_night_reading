@@ -668,5 +668,5 @@ See [generate.py](./generate.py) for instructions about generating this page.
 <br>
 
 ### Contributing
-Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jtomori)
+Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori)
 

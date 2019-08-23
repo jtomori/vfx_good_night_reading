@@ -27,7 +27,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [bournemouth](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/) (21)
 * [clemson](https://tigerprints.clemson.edu/theses/) (10)
 * dd (2)
-* [disney](https://www.disneyresearch.com/publication/) (15)
+* [disney](https://studios.disneyresearch.com/) (15)
 * dneg (4)
 * [dwa](http://research.dreamworks.com/) (16)
 * framestore (1)

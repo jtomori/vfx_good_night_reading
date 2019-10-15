@@ -29,7 +29,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
         "weta":         "https://www.wetafx.co.nz/research-and-tech/publications/",
         "scad":         "http://ecollections.scad.edu/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def",
         "pixar":        "https://graphics.pixar.com/library/",
-        "disney":       "https://www.disneyresearch.com/publication/",
+        "disney":       "https://studios.disneyresearch.com/",
         "tdforum":      "http://tdforum.eu/pdf/",
         "clemson":      "https://tigerprints.clemson.edu/theses/",
         "bournemouth":  "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/"
@@ -130,7 +130,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
     page_entries += "\n"
 
     page_contributing = """### Contributing
-Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jtomori)
+Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori)
 """
 
     page = "\n<br>\n\n".join( [page_intro, page_format, page_tags, page_categories, page_entries, page_contributing] )

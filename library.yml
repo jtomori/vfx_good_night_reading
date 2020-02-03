@@ -697,6 +697,13 @@ Fundamentals of Computer Graphics 3rd ed.:
     link: http://www.moving-picture.com/UmbracoMedia/6301/furtilitydynamicwolfman.pdf
     tags:
         - mpc
+Game AI Pro:
+    categories:
+        - Crowds
+        - Coding
+    format: book
+    link: http://gameaipro.com/
+    tags: []
 'GETTING SANDY: CREATING COLLAPSING SAND EFFECTS FOR AN ODE TO LOVE':
     categories:
         - FX

@@ -9,12 +9,12 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 
 See [generate.py](./generate.py) for instructions about generating this page.
 
-[![Total entries](https://img.shields.io/badge/total_entries-255-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-41-green.svg?longCache=true&style=for-the-badge)](#categories)
+[![Total entries](https://img.shields.io/badge/total_entries-256-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-41-green.svg?longCache=true&style=for-the-badge)](#categories)
 
 <br>
 
 ### Formats
-* **book** (22)
+* **book** (23)
 * **paper** (134)
 * **presentation** (48)
 * **thesis** (49)
@@ -53,10 +53,10 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [CG](#cg) (9)
 * [Case studies](#case-studies) (9)
 * [Cities](#cities) (1)
-* [Coding](#coding) (10)
+* [Coding](#coding) (11)
 * [Colors](#colors) (9)
 * [Computer Vision](#computer-vision) (1)
-* [Crowds](#crowds) (11)
+* [Crowds](#crowds) (12)
 * [Deep comp](#deep-comp) (2)
 * [Environments](#environments) (5)
 * [Erosion](#erosion) (3)
@@ -160,6 +160,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [CGAL: the computational geometry algorithms library](https://dl.acm.org/citation.cfm?id=2927362) **paper**
 * [Dive Into Python Python from novice to pro](http://www.diveintopython.net/) **book**
 * [Extending Houdini with HDK](http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO4_handout.pdf) **presentation** `houdini`
+* [Game AI Pro](http://gameaipro.com/) **book**
 * [Getting started with webGL and three.js](https://dl.acm.org/citation.cfm?id=3214861) **presentation** `nvidia`
 * [Learning OpenCV](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) **book**
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) **book**
@@ -189,6 +190,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Creating the flying armadas in Guardians of the Galaxy](https://dl.acm.org/citation.cfm?id=2614106.2614127) **paper** `mpc`
 * [Flexible pipeline for crowd production](https://dl.acm.org/citation.cfm?id=3085042) **paper** `dneg` `houdini`
 * [Flocking system mimicking fish school behaviours](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc16/02/thesis.pdf) **thesis** `bournemouth`
+* [Game AI Pro](http://gameaipro.com/) **book**
 * [Real-time Simulation and Rendering of Large-scale Crowd Motion](https://ir.canterbury.ac.nz/xmlui/bitstream/handle/10092/7870/thesis_fulltext.pdf?sequence=1&isAllowed=y) **thesis**
 * [SCALABLE, CONTROLLABLE, EFFICIENT AND CONVINCING CROWD SIMULATION](http://research.cs.wisc.edu/graphics/Gallery/mksung.vol/FinalDefense/Thesis/thesis.pdf) **thesis**
 * [Simulation, Animation and Rendering of Crowds in Real-Time](https://diglib.eg.org/bitstream/handle/10.2312/14394/beacco.pdf?sequence=1&isAllowed=y) **thesis**

@@ -1415,6 +1415,14 @@ Supercharge Houdini with Python:
     link: http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO3_handout.pdf
     tags:
         - houdini
+The CG Cinematography:
+    categories:
+        - Lighting & Rendering
+        - Color
+        - CG
+    format: book
+    link: https://chrisbrejon.com/cg-cinematography/
+    tags: []
 THE EXPLOSION EFFECT- A Custom Volume FX Production Pipeline:
     categories:
         - FX

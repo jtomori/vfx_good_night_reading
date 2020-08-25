@@ -36,7 +36,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
     }
 
     with open('library.yml', 'r') as file_data:
-        lib_json = yaml.load(file_data)
+        lib_json = yaml.load(file_data, Loader=yaml.FullLoader)
 
     # analyze library, create a dict holding entries organized by categories
     formats_set = set()

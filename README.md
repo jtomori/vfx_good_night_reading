@@ -9,12 +9,12 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 
 See [generate.py](./generate.py) for instructions about generating this page.
 
-[![Total entries](https://img.shields.io/badge/total_entries-256-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-41-green.svg?longCache=true&style=for-the-badge)](#categories)
+[![Total entries](https://img.shields.io/badge/total_entries-257-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-42-green.svg?longCache=true&style=for-the-badge)](#categories)
 
 <br>
 
 ### Formats
-* **book** (23)
+* **book** (24)
 * **paper** (134)
 * **presentation** (48)
 * **thesis** (49)
@@ -50,10 +50,11 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Animation](#animation) (13)
 * [Biology & Trees](#biology--trees) (11)
 * [CFX](#cfx) (2)
-* [CG](#cg) (9)
+* [CG](#cg) (10)
 * [Case studies](#case-studies) (9)
 * [Cities](#cities) (1)
 * [Coding](#coding) (11)
+* [Color](#color) (1)
 * [Colors](#colors) (9)
 * [Computer Vision](#computer-vision) (1)
 * [Crowds](#crowds) (12)
@@ -66,7 +67,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Fractals](#fractals) (3)
 * [Fur & Feathers](#fur--feathers) (7)
 * [History](#history) (3)
-* [Lighting & Rendering](#lighting--rendering) (61)
+* [Lighting & Rendering](#lighting--rendering) (62)
 * [Liquids](#liquids) (25)
 * [Machine Learning](#machine-learning) (7)
 * [Maths](#maths) (15)
@@ -141,6 +142,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Mathematics for Computer Graphics (Undergraduate Topics in Computer Science)](https://www.amazon.com/Mathematics-Computer-Graphics-Undergraduate-Science/dp/1447173341) **book**
 * [Physically Based Rendering FROM THEORY TO IMPLEMENTATION](http://www.pbrt.org/) **book**
 * [Texturing and Modeling, Third Edition: A Procedural Approach](https://www.amazon.com/Texturing-Modeling-Third-Procedural-Approach/dp/1558608486) **book**
+* [The CG Cinematography](https://chrisbrejon.com/cg-cinematography/) **book**
 
 ### Case studies
 * [APES & BLOCKS OF FOAM](http://tdforum.eu/pdf/2012OlliRajala_Apes_and_Blocks_of_Foam.pdf) **presentation** `tdforum`
@@ -168,6 +170,9 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [State-of-the-art webGL 2.0](https://dl.acm.org/citation.cfm?id=3134479) **presentation** `nvidia`
 * [Supercharge Houdini with Python](http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO3_handout.pdf) **presentation** `houdini`
 * [libigl: prototyping geometry processing research in C++](https://dl.acm.org/citation.cfm?id=3134497) **paper**
+
+### Color
+* [The CG Cinematography](https://chrisbrejon.com/cg-cinematography/) **book**
 
 ### Colors
 * [APPLYING COLOR THEORY TO DIGITAL MEDIA & VISUALIZATION](http://media.siggraph.org/education/cgsource/color/TM_Rhyne_Color_Theory_Class_SIGGRAPH_Education_Committee2.pdf) **presentation**
@@ -380,6 +385,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Spherical Harmonic Lighting: The Gritty Details](http://silviojemma.com/public/papers/lighting/spherical-harmonic-lighting.pdf) **paper**
 * [Stupid Spherical Harmonics (SH) Tricks](http://silviojemma.com/public/papers/lighting/StupidSphericalHarmonics36.pdf) **paper**
 * [Technical Art of Uncharted 4](http://advances.realtimerendering.com/other/2016/naughty_dog/NaughtyDog_TechArt_Final.pdf) **presentation**
+* [The CG Cinematography](https://chrisbrejon.com/cg-cinematography/) **book**
 * [The Path to Path-Traced Movies](https://graphics.pixar.com/library/PathTracedMovies/paper.pdf) **paper** `pixar`
 * [The path tracing revolution in the movie industry](https://sites.google.com/site/pathtracingrevolution/) **presentation** `disney` `nvidia` `pixar` `weta`
 * [The water effects of Pirates of the Caribbean: Dead Men Tell no Tales](https://dl.acm.org/citation.cfm?id=3085044) **paper** `houdini` `mpc`

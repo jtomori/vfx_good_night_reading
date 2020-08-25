@@ -9,7 +9,7 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 
 See [generate.py](./generate.py) for instructions about generating this page.
 
-[![Total entries](https://img.shields.io/badge/total_entries-257-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-42-green.svg?longCache=true&style=for-the-badge)](#categories)
+[![Total entries](https://img.shields.io/badge/total_entries-257-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-41-green.svg?longCache=true&style=for-the-badge)](#categories)
 
 <br>
 
@@ -54,8 +54,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Case studies](#case-studies) (9)
 * [Cities](#cities) (1)
 * [Coding](#coding) (11)
-* [Color](#color) (1)
-* [Colors](#colors) (9)
+* [Colors](#colors) (10)
 * [Computer Vision](#computer-vision) (1)
 * [Crowds](#crowds) (12)
 * [Deep comp](#deep-comp) (2)
@@ -171,9 +170,6 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [Supercharge Houdini with Python](http://staffwww.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Slides/sfxFO3_handout.pdf) **presentation** `houdini`
 * [libigl: prototyping geometry processing research in C++](https://dl.acm.org/citation.cfm?id=3134497) **paper**
 
-### Color
-* [The CG Cinematography](https://chrisbrejon.com/cg-cinematography/) **book**
-
 ### Colors
 * [APPLYING COLOR THEORY TO DIGITAL MEDIA & VISUALIZATION](http://media.siggraph.org/education/cgsource/color/TM_Rhyne_Color_Theory_Class_SIGGRAPH_Education_Committee2.pdf) **presentation**
 * [Cinematic Color - Visual Effects Society](https://www.visualeffectssociety.com/sites/default/files/files/cinematic_color_ves.pdf) **paper**
@@ -184,6 +180,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
 * [OpenColorIO and its usage with The Academy Color Encoding Specification (ACES) in a modern visual effects pipeline](https://www.hdm-stuttgart.de/vfx/alumni/bamathesis/pdf_016/) **thesis**
 * [Procedural Fluid Textures](https://dl.acm.org/citation.cfm?id=3214767) **paper**
 * [The Art and Technique of Digital Color Correction](https://www.amazon.com/Art-Technique-Digital-Color-Correction/dp/024081715X) **book**
+* [The CG Cinematography](https://chrisbrejon.com/cg-cinematography/) **book**
 
 ### Computer Vision
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) **book**
@@ -676,5 +673,27 @@ See [generate.py](./generate.py) for instructions about generating this page.
 <br>
 
 ### Contributing
-Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori)
+Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori).
+
+<br>
+
+### Adding new entries
+* Create virtual environment
+    ```
+    $ python3 -m venv venv
+    ```
+
+* Install dependencies
+    ```
+    $ pip install -r requirements.txt
+    ```
+
+* Edit `library.yml` to add new entries
+
+* Re-generate `README.md`
+    ```
+    $ python generate.py
+    ```
+
+* Done!
 

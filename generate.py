@@ -1,10 +1,10 @@
-"""
-This script is used to generate README.md based on library.yml
+"""This script is used to generate README.md based on ``library.yml``.
 
-Please do not edit directly README.md, but modify entries in library.yml and then re-generate README.md by running `$ python generate.py`
+Please do not edit directly ``README.md``, but modify entries in ``library.yml`` and then re-generate ``README.md`` by running ``$ python generate.py``.
 """
 
 import yaml
+
 
 def main():
     page = ""
@@ -36,7 +36,7 @@ See [generate.py](./generate.py) for instructions about generating this page.
     }
 
     with open('library.yml', 'r') as file_data:
-        lib_json = yaml.load(file_data, Loader=yaml.FullLoader)
+        lib_json = yaml.safe_load(file_data)
 
     # analyze library, create a dict holding entries organized by categories
     formats_set = set()
@@ -130,7 +130,29 @@ See [generate.py](./generate.py) for instructions about generating this page.
     page_entries += "\n"
 
     page_contributing = """### Contributing
-Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori)
+Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori).
+
+<br>
+
+### Adding new entries
+* Create virtual environment
+    ```
+    $ python3 -m venv venv
+    ```
+
+* Install dependencies
+    ```
+    $ pip install -r requirements.txt
+    ```
+
+* Edit `library.yml` to add new entries
+
+* Re-generate `README.md`
+    ```
+    $ python generate.py
+    ```
+
+* Done!
 """
 
     page = "\n<br>\n\n".join( [page_intro, page_format, page_tags, page_categories, page_entries, page_contributing] )
@@ -138,6 +160,9 @@ Feel free to contribute to this project by creating pull requests or by [buying 
 
     with open("README.md", "w") as out_file:
         out_file.write(page)
+    
+    print("Generation finished!")
+
 
 if __name__ == "__main__":
     main()

@@ -683,7 +683,7 @@ Feel free to contribute to this project by creating pull requests or by [buying 
     $ python3 -m venv venv
     ```
 
-* Activate virtual environment
+* Activate it
     ```
     $ source venv/bin/activate
     ```
@@ -695,10 +695,25 @@ Feel free to contribute to this project by creating pull requests or by [buying 
 
 * Edit `library.yml` to add new entries
 
-* Re-generate `README.md`
+* Run code quality checks and re-generate `README.md`
     ```
-    $ python generate.py
+    $ make
     ```
+
+    * You can run code checks only with
+        ```
+        $ make check
+        ```
+
+    * Or re-generate `README.md` only with
+        ```
+        $ make generate
+        ```
+
+    * Alternatively re-generate `README.md` without make
+        ```
+        $ python generate.py
+        ```
 
 * Done!
 

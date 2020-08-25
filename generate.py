@@ -7,6 +7,7 @@ import yaml
 
 
 def main():
+    """Script's entry point. This function does all of the work."""
     page = ""
     page_intro = """
 # VFX Good Night Reading
@@ -23,16 +24,16 @@ See [generate.py](./generate.py) for instructions about generating this page.
 """
 
     tags_links = {
-        "spi":          "http://library.imageworks.com/",
-        "mpc":          "http://www.moving-picture.com/film/content-pages/technology/",
-        "dwa":          "http://research.dreamworks.com/",
-        "weta":         "https://www.wetafx.co.nz/research-and-tech/publications/",
-        "scad":         "http://ecollections.scad.edu/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def",
-        "pixar":        "https://graphics.pixar.com/library/",
-        "disney":       "https://studios.disneyresearch.com/",
-        "tdforum":      "http://tdforum.eu/pdf/",
-        "clemson":      "https://tigerprints.clemson.edu/theses/",
-        "bournemouth":  "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/"
+        "spi": "http://library.imageworks.com/",
+        "mpc": "http://www.moving-picture.com/film/content-pages/technology/",
+        "dwa": "http://research.dreamworks.com/",
+        "weta": "https://www.wetafx.co.nz/research-and-tech/publications/",
+        "scad": "http://ecollections.scad.edu/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def",
+        "pixar": "https://graphics.pixar.com/library/",
+        "disney": "https://studios.disneyresearch.com/",
+        "tdforum": "http://tdforum.eu/pdf/",
+        "clemson": "https://tigerprints.clemson.edu/theses/",
+        "bournemouth": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/"
     }
 
     with open('library.yml', 'r') as file_data:
@@ -47,39 +48,38 @@ See [generate.py](./generate.py) for instructions about generating this page.
     format_counter = {}
 
     for title, entry in lib_json.items():
-        formats_set = formats_set | set([ entry["format"] ])
-        tags_set = tags_set | set( entry["tags"] ) if entry["tags"] != [] else tags_set
+        formats_set = formats_set | set([entry["format"]])
+        tags_set = tags_set | set(entry["tags"]) if entry["tags"] != [] else tags_set
 
         for cat in entry["categories"]:
-            categories_set = categories_set | set( [cat] )
+            categories_set = categories_set | set([cat])
 
             if cat not in categories_dict.keys():
-                categories_dict[cat] = { title : entry }
+                categories_dict[cat] = {title: entry}
             else:
                 categories_dict[cat][title] = entry
-        
+
         for tag in entry["tags"]:
             if tag not in tags_counter.keys():
                 tags_counter[tag] = 1
             else:
                 tags_counter[tag] = tags_counter[tag] + 1
-        
+
         if entry["format"] not in format_counter.keys():
-            format_counter[ entry["format"] ] = 1
+            format_counter[entry["format"]] = 1
         else:
-            format_counter[ entry["format"] ] = format_counter[ entry["format"] ] + 1
+            format_counter[entry["format"]] = format_counter[entry["format"]] + 1
 
     formats_list = list(formats_set)
     formats_list.sort()
     tags_list = list(tags_set)
     tags_list.sort()
-    tags_list = tags_list
     categories_list = list(categories_set)
     categories_list.sort()
 
-    page_intro = page_intro.format( total_entries=len( lib_json.keys() ), total_categories=len( categories_list ) )
+    page_intro = page_intro.format(total_entries=len(lib_json.keys()), total_categories=len(categories_list))
 
-    #print(json.dumps(categories_dict, indent=2))
+    # print(json.dumps(categories_dict, indent=2))
 
     # generate formats section
     page_format = "### Formats\n"
@@ -105,8 +105,8 @@ See [generate.py](./generate.py) for instructions about generating this page.
         link = str(cat.lower())
         link = ''.join(filter(filter_links, link))
         link = link.replace(" ", "-")
-        
-        page_categories = page_categories + "* [{}](#{}) ({})\n".format(cat, link, len( categories_dict[cat].keys() ) )
+
+        page_categories = page_categories + "* [{}](#{}) ({})\n".format(cat, link, len(categories_dict[cat].keys()))
 
     # generate entries section
     page_entries = "## List\n<br>\n"
@@ -120,11 +120,11 @@ See [generate.py](./generate.py) for instructions about generating this page.
             tags_str = ""
             for tag in tags:
                 tags_str = tags_str + " `{}`".format(tag)
-            
+
             if "extra" in data:
                 tags_str = tags_str + " " + data["extra"]
 
-            entry = "\n* [{}]({}) **{}**{}".format( title, data["link"], data["format"], tags_str )
+            entry = "\n* [{}]({}) **{}**{}".format(title, data["link"], data["format"], tags_str)
             page_entries = page_entries + entry
 
     page_entries += "\n"
@@ -140,7 +140,7 @@ Feel free to contribute to this project by creating pull requests or by [buying 
     $ python3 -m venv venv
     ```
 
-* Activate virtual environment
+* Activate it
     ```
     $ source venv/bin/activate
     ```
@@ -152,20 +152,35 @@ Feel free to contribute to this project by creating pull requests or by [buying 
 
 * Edit `library.yml` to add new entries
 
-* Re-generate `README.md`
+* Run code quality checks and re-generate `README.md`
     ```
-    $ python generate.py
+    $ make
     ```
+
+    * You can run code checks only with
+        ```
+        $ make check
+        ```
+
+    * Or re-generate `README.md` only with
+        ```
+        $ make generate
+        ```
+
+    * Alternatively re-generate `README.md` without make
+        ```
+        $ python generate.py
+        ```
 
 * Done!
 """
 
-    page = "\n<br>\n\n".join( [page_intro, page_format, page_tags, page_categories, page_entries, page_contributing] )
+    page = "\n<br>\n\n".join([page_intro, page_format, page_tags, page_categories, page_entries, page_contributing])
     page = page + "\n"
 
     with open("README.md", "w") as out_file:
         out_file.write(page)
-    
+
     print("Generation finished!")
 
 

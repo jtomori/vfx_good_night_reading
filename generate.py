@@ -140,6 +140,11 @@ Feel free to contribute to this project by creating pull requests or by [buying 
     $ python3 -m venv venv
     ```
 
+* Activate virtual environment
+    ```
+    $ source venv/bin/activate
+    ```
+
 * Install dependencies
     ```
     $ pip install -r requirements.txt

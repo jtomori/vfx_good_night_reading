@@ -5,9 +5,11 @@ Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but 
 
 Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org//learn/conference-content). You can also find papers at [deepdyve](https://www.deepdyve.com/), where you can check free preview before buying them.
 
+:information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
+
 Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
 
-See [generate.py](./generate.py) for instructions about generating this page.
+See [here](#adding-new-entries) for instructions about generating this page.
 
 [![Total entries](https://img.shields.io/badge/total_entries-257-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-41-green.svg?longCache=true&style=for-the-badge)](#categories)
 

@@ -20,7 +20,7 @@ Links are pointing to PDFs when available for free, or to [acm digital library](
 
 Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
 
-See [generate.py](./generate.py) for instructions about generating this page.
+See [here](#adding-new-entries) for instructions about generating this page.
 
 [![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-{total_categories}-green.svg?longCache=true&style=for-the-badge)](#categories)
 """

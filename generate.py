@@ -1,6 +1,6 @@
 """This script is used to generate README.md based on ``library.yml``.
 
-Please do not edit directly ``README.md``, but modify entries in ``library.yml`` and then re-generate ``README.md`` by running ``$ python generate.py``.
+Please do not edit directly ``README.md``, but modify entries in ``library.yml`` instead and then re-generate ``README.md`` by running ``$ python generate.py``. See bottom of ``README.md`` for more info.
 """
 
 import yaml
@@ -15,6 +15,8 @@ def main():
 Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but not too hardcore.
 
 Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org//learn/conference-content). You can also find papers at [deepdyve](https://www.deepdyve.com/), where you can check free preview before buying them.
+
+:information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
 
 Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
 

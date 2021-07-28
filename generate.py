@@ -132,7 +132,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
     page_entries += "\n"
 
     page_contributing = """### Contributing
-Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori).
+Feel free to contribute to this project by creating pull requests.
 
 <br>
 

@@ -3,9 +3,11 @@
 
 Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but not too hardcore.
 
-Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org//learn/conference-content). You can also find papers at [deepdyve](https://www.deepdyve.com/), where you can check free preview before buying them.
+Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org/learn/conference-content).
 
 :information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
+
+:information_source: Bournemouth links are mostly dead. You should be able to find the content here though: [new website](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/).
 
 Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
 
@@ -26,7 +28,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
 
 ### Tags
 * al (2)
-* [bournemouth](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/) (21)
+* [bournemouth](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/) (21)
 * [clemson](https://tigerprints.clemson.edu/theses/) (10)
 * dd (2)
 * [disney](https://studios.disneyresearch.com/) (15)

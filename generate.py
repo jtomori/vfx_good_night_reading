@@ -14,9 +14,11 @@ def main():
 
 Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but not too hardcore.
 
-Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org//learn/conference-content). You can also find papers at [deepdyve](https://www.deepdyve.com/), where you can check free preview before buying them.
+Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org/learn/conference-content).
 
 :information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
+
+:information_source: Bournemouth links are mostly dead. You should be able to find the content here though: [new website](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/).
 
 Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
 
@@ -35,7 +37,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
         "disney": "https://studios.disneyresearch.com/",
         "tdforum": "http://tdforum.eu/pdf/",
         "clemson": "https://tigerprints.clemson.edu/theses/",
-        "bournemouth": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/"
+        "bournemouth": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/"
     }
 
     with open('library.yml', 'r') as file_data:

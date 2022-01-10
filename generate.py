@@ -4,28 +4,28 @@ Please do not edit directly ``README.md``, but modify entries in ``library.yml``
 """
 
 import yaml
+import textwrap
 
 
 def main():
     """Script's entry point. This function does all of the work."""
-    page = ""
     page_intro = """
-# VFX Good Night Reading
+    # VFX Good Night Reading
 
-Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but not too hardcore.
+    Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but not too hardcore.
 
-Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org/learn/conference-content).
+    Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org/learn/conference-content).
 
-:information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
+    :information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
 
-:information_source: Bournemouth links are mostly dead. You should be able to find the content here though: [new website](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/).
+    :information_source: Bournemouth links are mostly dead. You should be able to find the content here though: [new website](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/).
 
-Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
+    Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
 
-See [here](#adding-new-entries) for instructions about generating this page.
+    See [here](#adding-new-entries) for instructions about generating this page.
 
-[![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-{total_categories}-green.svg?longCache=true&style=for-the-badge)](#categories)
-"""
+    [![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-{total_categories}-green.svg?longCache=true&style=for-the-badge)](#categories)
+    """
 
     tags_links = {
         "spi": "http://library.imageworks.com/",
@@ -81,7 +81,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
     categories_list = list(categories_set)
     categories_list.sort()
 
-    page_intro = page_intro.format(total_entries=len(lib_json.keys()), total_categories=len(categories_list))
+    page_intro = textwrap.dedent(page_intro).format(total_entries=len(lib_json.keys()), total_categories=len(categories_list))
 
     # print(json.dumps(categories_dict, indent=2))
 
@@ -133,53 +133,53 @@ See [here](#adding-new-entries) for instructions about generating this page.
 
     page_entries += "\n"
 
-    page_contributing = """### Contributing
-Feel free to contribute to this project by creating pull requests.
+    page_contributing = """\
+    ### Contributing
+    Feel free to contribute to this project by creating pull requests.
 
-<br>
+    <br>
 
-### Adding new entries
-* Create virtual environment
-    ```
-    $ python3 -m venv venv
-    ```
-
-* Activate it
-    ```
-    $ source venv/bin/activate
-    ```
-
-* Install dependencies
-    ```
-    $ pip install -r requirements.txt
-    ```
-
-* Edit `library.yml` to add new entries
-
-* Run code quality checks and re-generate `README.md`
-    ```
-    $ make
-    ```
-
-    * You can run code checks only with
+    ### Adding new entries
+    * Create virtual environment
         ```
-        $ make check
+        $ python3 -m venv venv
         ```
 
-    * Or re-generate `README.md` only with
+    * Activate it
         ```
-        $ make generate
-        ```
-
-    * Alternatively re-generate `README.md` without make
-        ```
-        $ python generate.py
+        $ source venv/bin/activate
         ```
 
-* Done!
-"""
+    * Install dependencies
+        ```
+        $ pip install -r requirements.txt
+        ```
 
-    page = "\n<br>\n\n".join([page_intro, page_format, page_tags, page_categories, page_entries, page_contributing])
+    * Edit `library.yml` to add new entries
+
+    * Run code quality checks and re-generate `README.md`
+        ```
+        $ make
+        ```
+
+        * You can run code checks only with
+            ```
+            $ make check
+            ```
+
+        * Or re-generate `README.md` only with
+            ```
+            $ make generate
+            ```
+
+        * Alternatively re-generate `README.md` without make
+            ```
+            $ python generate.py
+            ```
+
+    * Done!
+    """
+    page = "\n<br>\n\n".join([page_intro, page_format, page_tags, page_categories, page_entries, textwrap.dedent(page_contributing)])
     page = page + "\n"
 
     with open("README.md", "w") as out_file:

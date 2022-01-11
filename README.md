@@ -13,7 +13,7 @@ Feel free to improve/extend this library and contribute with your findings. Pull
 
 See [here](#adding-new-entries) for instructions about generating this page.
 
-[![Total entries](https://img.shields.io/badge/total_entries-257-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-41-green.svg?longCache=true&style=for-the-badge)](#categories)
+Number of entries: 257, categories: 41
 
 <br>
 
@@ -74,7 +74,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
 * [Liquids](#liquids) (25)
 * [Machine Learning](#machine-learning) (7)
 * [Maths](#maths) (15)
-* [Misc.](#misc) (2)
+* [Misc](#misc) (2)
 * [Motion Capture](#motion-capture) (2)
 * [Oceans](#oceans) (4)
 * [PBD](#pbd) (3)
@@ -94,7 +94,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
 
 <br>
 
-## List
+# List
 <br>
 
 
@@ -448,7 +448,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
 * [State-of-the-art webGL 2.0](https://dl.acm.org/citation.cfm?id=3134479) **presentation** `nvidia`
 * [libigl: prototyping geometry processing research in C++](https://dl.acm.org/citation.cfm?id=3134497) **paper**
 
-### Misc.
+### Misc
 * [Procedural Generation of Rock Piles using Aperiodic Tiling](https://pdfs.semanticscholar.org/1c1a/1da6faa24826ac76a5e1f0edc6e1a401faa3.pdf) **paper**
 * [Total Moving Face Reconstruction](http://grail.cs.washington.edu/projects/totalmoving/) **paper**
 

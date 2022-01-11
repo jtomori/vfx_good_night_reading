@@ -3,6 +3,7 @@
 Please do not edit directly ``README.md``, but modify entries in ``library.yml`` instead and then re-generate ``README.md`` by running ``$ python generate.py``. See bottom of ``README.md`` for more info.
 """
 
+import re
 import yaml
 import textwrap
 
@@ -24,7 +25,7 @@ def main():
 
     See [here](#adding-new-entries) for instructions about generating this page.
 
-    [![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-{total_categories}-green.svg?longCache=true&style=for-the-badge)](#categories)
+    Number of entries: {total_entries}, categories: {total_categories}
     """
 
     tags_links = {
@@ -83,8 +84,6 @@ def main():
 
     page_intro = textwrap.dedent(page_intro).format(total_entries=len(lib_json.keys()), total_categories=len(categories_list))
 
-    # print(json.dumps(categories_dict, indent=2))
-
     # generate formats section
     page_format = "### Formats\n"
 
@@ -113,7 +112,7 @@ def main():
         page_categories = page_categories + "* [{}](#{}) ({})\n".format(cat, link, len(categories_dict[cat].keys()))
 
     # generate entries section
-    page_entries = "## List\n<br>\n"
+    page_entries = "# List\n<br>\n"
 
     for cat, entries in sorted(categories_dict.items()):
         page_entries = page_entries + "\n\n### {}".format(cat)
@@ -182,8 +181,46 @@ def main():
     page = "\n<br>\n\n".join([page_intro, page_format, page_tags, page_categories, page_entries, textwrap.dedent(page_contributing)])
     page = page + "\n"
 
+    # Render into markdown
     with open("README.md", "w") as out_file:
         out_file.write(page)
+
+    html_header = """\
+    <meta charset="utf-8" lang="en">
+    <link href="styles.css" rel="stylesheet">
+    """
+
+    html_footer = """\
+    <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible");window.markdeepOptions = {tocStyle: 'none'};</script>
+    """
+
+    replaced_page = page.replace(
+        "# VFX Good Night Reading", "**VFX Good Night Reading**"
+    ).replace(
+        "<br>", ""
+    ).replace(
+        ":information_source:", "!!!\n   "
+    ).replace(
+        "adding-new-entries", "addingnewentries"
+    )
+
+    # Fix ampersant in categories links
+    pattern1 = re.compile(
+        r'(\* \[.*\]\(#.*)(--)(.*\))',
+    )
+    replaced_page = pattern1.sub(r'\1&\3', replaced_page)
+
+    # Fix space in categories links
+    pattern2 = re.compile(
+        r'(\* \[.*\]\(#.*)(-)(.*\))',
+    )
+    replaced_page = pattern2.sub(r'\1\3', replaced_page)
+
+    html_page = textwrap.dedent(html_header) + replaced_page + textwrap.dedent(html_footer)
+
+    # Render into html
+    with open("index.html", "w") as out_file:
+        out_file.write(html_page)
 
     print("Generation finished!")
 

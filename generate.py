@@ -3,27 +3,30 @@
 Please do not edit directly ``README.md``, but modify entries in ``library.yml`` instead and then re-generate ``README.md`` by running ``$ python generate.py``. See bottom of ``README.md`` for more info.
 """
 
+import re
 import yaml
+import textwrap
 
 
 def main():
     """Script's entry point. This function does all of the work."""
-    page = ""
     page_intro = """
-# VFX Good Night Reading
+    # VFX Good Night Reading
 
-Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but not too hardcore.
+    Curated collection of good reading about VFX and CG. Mostly TD-level stuff, but not too hardcore.
 
-Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org//learn/conference-content). You can also find papers at [deepdyve](https://www.deepdyve.com/), where you can check free preview before buying them.
+    Links are pointing to PDFs when available for free, or to [acm digital library](https://dl.acm.org/). Note that ACM Digital Library content is sometimes available for **free**, more info [here](https://www.siggraph.org/learn/conference-content).
 
-:information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
+    :information_source: Note that some links might break after some time. You can still check if they are indexed in [Wayback Machine](https://archive.org/web/) though.
 
-Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
+    :information_source: Bournemouth links are mostly dead. You should be able to find the content here though: [new website](https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/).
 
-See [here](#adding-new-entries) for instructions about generating this page.
+    Feel free to improve/extend this library and contribute with your findings. Pull requests are welcome.
 
-[![Total entries](https://img.shields.io/badge/total_entries-{total_entries}-green.svg?longCache=true&style=for-the-badge)](#list) [![Total categories](https://img.shields.io/badge/total_categories-{total_categories}-green.svg?longCache=true&style=for-the-badge)](#categories)
-"""
+    See [here](#adding-new-entries) for instructions about generating this page.
+
+    Number of entries: {total_entries}, categories: {total_categories}
+    """
 
     tags_links = {
         "spi": "http://library.imageworks.com/",
@@ -35,7 +38,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
         "disney": "https://studios.disneyresearch.com/",
         "tdforum": "http://tdforum.eu/pdf/",
         "clemson": "https://tigerprints.clemson.edu/theses/",
-        "bournemouth": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/"
+        "bournemouth": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/"
     }
 
     with open('library.yml', 'r') as file_data:
@@ -79,9 +82,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
     categories_list = list(categories_set)
     categories_list.sort()
 
-    page_intro = page_intro.format(total_entries=len(lib_json.keys()), total_categories=len(categories_list))
-
-    # print(json.dumps(categories_dict, indent=2))
+    page_intro = textwrap.dedent(page_intro).format(total_entries=len(lib_json.keys()), total_categories=len(categories_list))
 
     # generate formats section
     page_format = "### Formats\n"
@@ -111,7 +112,7 @@ See [here](#adding-new-entries) for instructions about generating this page.
         page_categories = page_categories + "* [{}](#{}) ({})\n".format(cat, link, len(categories_dict[cat].keys()))
 
     # generate entries section
-    page_entries = "## List\n<br>\n"
+    page_entries = "# List\n<br>\n"
 
     for cat, entries in sorted(categories_dict.items()):
         page_entries = page_entries + "\n\n### {}".format(cat)
@@ -131,57 +132,95 @@ See [here](#adding-new-entries) for instructions about generating this page.
 
     page_entries += "\n"
 
-    page_contributing = """### Contributing
-Feel free to contribute to this project by creating pull requests.
+    page_contributing = """\
+    ### Contributing
+    Feel free to contribute to this project by creating pull requests.
 
-<br>
+    <br>
 
-### Adding new entries
-* Create virtual environment
-    ```
-    $ python3 -m venv venv
-    ```
-
-* Activate it
-    ```
-    $ source venv/bin/activate
-    ```
-
-* Install dependencies
-    ```
-    $ pip install -r requirements.txt
-    ```
-
-* Edit `library.yml` to add new entries
-
-* Run code quality checks and re-generate `README.md`
-    ```
-    $ make
-    ```
-
-    * You can run code checks only with
+    ### Adding new entries
+    * Create virtual environment
         ```
-        $ make check
+        $ python3 -m venv venv
         ```
 
-    * Or re-generate `README.md` only with
+    * Activate it
         ```
-        $ make generate
-        ```
-
-    * Alternatively re-generate `README.md` without make
-        ```
-        $ python generate.py
+        $ source venv/bin/activate
         ```
 
-* Done!
-"""
+    * Install dependencies
+        ```
+        $ pip install -r requirements.txt
+        ```
 
-    page = "\n<br>\n\n".join([page_intro, page_format, page_tags, page_categories, page_entries, page_contributing])
+    * Edit `library.yml` to add new entries
+
+    * Run code quality checks and re-generate `README.md`
+        ```
+        $ make
+        ```
+
+        * You can run code checks only with
+            ```
+            $ make check
+            ```
+
+        * Or re-generate `README.md` only with
+            ```
+            $ make generate
+            ```
+
+        * Alternatively re-generate `README.md` without make
+            ```
+            $ python generate.py
+            ```
+
+    * Done!
+    """
+    page = "\n<br>\n\n".join([page_intro, page_format, page_tags, page_categories, page_entries, textwrap.dedent(page_contributing)])
     page = page + "\n"
 
+    # Render into markdown
     with open("README.md", "w") as out_file:
         out_file.write(page)
+
+    html_header = """\
+    <meta charset="utf-8" lang="en">
+    <link href="styles.css" rel="stylesheet">
+    """
+
+    html_footer = """\
+    <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible");window.markdeepOptions = {tocStyle: 'none'};</script>
+    """
+
+    replaced_page = page.replace(
+        "# VFX Good Night Reading", "**VFX Good Night Reading**"
+    ).replace(
+        "<br>", ""
+    ).replace(
+        ":information_source:", "!!!\n   "
+    ).replace(
+        "adding-new-entries", "addingnewentries"
+    )
+
+    # Fix ampersant in categories links
+    pattern1 = re.compile(
+        r'(\* \[.*\]\(#.*)(--)(.*\))',
+    )
+    replaced_page = pattern1.sub(r'\1&\3', replaced_page)
+
+    # Fix space in categories links
+    pattern2 = re.compile(
+        r'(\* \[.*\]\(#.*)(-)(.*\))',
+    )
+    replaced_page = pattern2.sub(r'\1\3', replaced_page)
+
+    html_page = textwrap.dedent(html_header) + replaced_page + textwrap.dedent(html_footer)
+
+    # Render into html
+    with open("index.html", "w") as out_file:
+        out_file.write(html_page)
 
     print("Generation finished!")
 

@@ -1141,7 +1141,7 @@ Procedural City Generation and Techniques for Game Designers:
         - scad
 Procedural Generation of Rock Piles using Aperiodic Tiling:
     categories:
-        - Misc.
+        - Misc
     format: paper
     link: https://pdfs.semanticscholar.org/1c1a/1da6faa24826ac76a5e1f0edc6e1a401faa3.pdf
     tags: []
@@ -1518,7 +1518,7 @@ The path tracing revolution in the movie industry:
         - disney
 Total Moving Face Reconstruction:
     categories:
-        - Misc.
+        - Misc
         - Rigging
         - Animation
     format: paper

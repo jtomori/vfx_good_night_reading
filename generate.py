@@ -41,7 +41,7 @@ def main():
         "bournemouth": "https://nccastaff.bournemouth.ac.uk/jmacey/MastersProject/"
     }
 
-    with open('library.yml', 'r') as file_data:
+    with open("library.yml", "r", encoding="utf-8") as file_data:
         lib_json = yaml.safe_load(file_data)
 
     # analyze library, create a dict holding entries organized by categories
@@ -59,18 +59,18 @@ def main():
         for cat in entry["categories"]:
             categories_set = categories_set | set([cat])
 
-            if cat not in categories_dict.keys():
+            if cat not in categories_dict:
                 categories_dict[cat] = {title: entry}
             else:
                 categories_dict[cat][title] = entry
 
         for tag in entry["tags"]:
-            if tag not in tags_counter.keys():
+            if tag not in tags_counter:
                 tags_counter[tag] = 1
             else:
                 tags_counter[tag] = tags_counter[tag] + 1
 
-        if entry["format"] not in format_counter.keys():
+        if entry["format"] not in format_counter:
             format_counter[entry["format"]] = 1
         else:
             format_counter[entry["format"]] = format_counter[entry["format"]] + 1
@@ -88,7 +88,7 @@ def main():
     page_format = "### Formats\n"
 
     for fmt in formats_list:
-        page_format = page_format + "* **{}** ({})\n".format(fmt, format_counter[fmt])
+        page_format = page_format + f"* **{fmt}** ({format_counter[fmt]})\n"
 
     # generate tags section
     page_tags = "### Tags\n"
@@ -96,8 +96,8 @@ def main():
     for tag in tags_list:
         tag_orig = tag
         if tag in tags_links:
-            tag = "[{}]({})".format(tag, tags_links[tag])
-        page_tags = page_tags + "* {} ({})\n".format(tag, tags_counter[tag_orig])
+            tag = f"[{tag}]({tags_links[tag]})"
+        page_tags = page_tags + f"* {tag} ({tags_counter[tag_orig]})\n"
 
     # generate categories section
     def filter_links(char):
@@ -109,25 +109,25 @@ def main():
         link = ''.join(filter(filter_links, link))
         link = link.replace(" ", "-")
 
-        page_categories = page_categories + "* [{}](#{}) ({})\n".format(cat, link, len(categories_dict[cat].keys()))
+        page_categories = page_categories + f"* [{cat}](#{link}) ({len(categories_dict[cat].keys())})\n"
 
     # generate entries section
     page_entries = "# List\n<br>\n"
 
     for cat, entries in sorted(categories_dict.items()):
-        page_entries = page_entries + "\n\n### {}".format(cat)
+        page_entries = page_entries + f"\n\n### {cat}"
 
         for title, data in sorted(entries.items()):
             tags = data["tags"]
             tags.sort()
             tags_str = ""
             for tag in tags:
-                tags_str = tags_str + " `{}`".format(tag)
+                tags_str = tags_str + f" `{tag}`"
 
             if "extra" in data:
                 tags_str = tags_str + " " + data["extra"]
 
-            entry = "\n* [{}]({}) **{}**{}".format(title, data["link"], data["format"], tags_str)
+            entry = f'\n* [{title}]({data["link"]}) **{data["format"]}**{tags_str}'
             page_entries = page_entries + entry
 
     page_entries += "\n"
@@ -182,7 +182,7 @@ def main():
     page = page + "\n"
 
     # Render into markdown
-    with open("README.md", "w") as out_file:
+    with open("README.md", "w", encoding="utf-8") as out_file:
         out_file.write(page)
 
     html_header = """\
@@ -219,7 +219,7 @@ def main():
     html_page = textwrap.dedent(html_header) + replaced_page + textwrap.dedent(html_footer)
 
     # Render into html
-    with open("index.html", "w") as out_file:
+    with open("index.html", "w", encoding="utf-8") as out_file:
         out_file.write(html_page)
 
     print("Generation finished!")
